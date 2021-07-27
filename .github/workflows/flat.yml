@@ -20,19 +20,22 @@ jobs:
         uses: actions/checkout@v2
       # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch Backlog
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: ${{ secrets.READINGLIST_URL }}/backlogList
           downloaded_filename: backlog.json
+          mask: '["${{ secrets.READINGLIST_URL }}"]'
 
       - name: Fetch Reading
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: ${{ secrets.READINGLIST_URL }}/readingList
           downloaded_filename: reading.json
+          mask: '["${{ secrets.READINGLIST_URL }}"]'
 
       - name: Fetch Done
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: ${{ secrets.READINGLIST_URL }}/doneList
           downloaded_filename: done.json
+          mask: '["${{ secrets.READINGLIST_URL }}"]'
