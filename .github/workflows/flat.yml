@@ -25,6 +25,7 @@ jobs:
           http_url: ${{ secrets.READINGLIST_URL }}/backlogList
           downloaded_filename: backlog.json
           mask: '["${{ secrets.READINGLIST_URL }}"]'
+          postprocess: postprocess.js
 
       - name: Fetch Reading
         uses: githubocto/flat@v3
@@ -32,6 +33,7 @@ jobs:
           http_url: ${{ secrets.READINGLIST_URL }}/readingList
           downloaded_filename: reading.json
           mask: '["${{ secrets.READINGLIST_URL }}"]'
+          postprocess: postprocess.js
 
       - name: Fetch Done
         uses: githubocto/flat@v3
@@ -39,3 +41,4 @@ jobs:
           http_url: ${{ secrets.READINGLIST_URL }}/doneList
           downloaded_filename: done.json
           mask: '["${{ secrets.READINGLIST_URL }}"]'
+          postprocess: postprocess.js
