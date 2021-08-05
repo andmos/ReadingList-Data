@@ -2,7 +2,7 @@ name: Readinglist Flat-data sync
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
   schedule:
     - cron:  '0 13 * * 1'
