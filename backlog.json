@@ -28,13 +28,6 @@
     "label": "Fact"
   },
   {
-    "title": "A Tale of Two Cities",
-    "authors": [
-      "Charles Dickens"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
     "authors": [
       "Clayton M. Christensen"
@@ -175,20 +168,6 @@
     "title": "The Facebook Effect",
     "authors": [
       "David Kirkpatrick"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Less but Better",
-    "authors": [
-      "Dieter Rams"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Dieter Rams: As Little Design As Possible",
-    "authors": [
-      "Klaus Kemp"
     ],
     "label": "Fact"
   },
@@ -855,13 +834,6 @@
     "title": "The God Delusion",
     "authors": [
       "Richard Dawkins"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-    "authors": [
-      "John Carreyrou"
     ],
     "label": "Fact"
   },
@@ -1649,6 +1621,13 @@
     "title": "Man's Search for Meaning",
     "authors": [
       "Viktor Frankl"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Peace Is Every Step",
+    "authors": [
+      "Thích Nhất Hạnh"
     ],
     "label": "Fact"
   }
