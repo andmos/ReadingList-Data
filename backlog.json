@@ -1306,6 +1306,13 @@
     "label": "Fact"
   },
   {
+    "title": "The Blade Itself: The First Law: Book One",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "Mastery",
     "authors": [
       "Robert Greene"
@@ -1604,13 +1611,6 @@
     "label": "Fiction"
   },
   {
-    "title": "Mistborn: The Bands of Mourning (Mistborn: The Wax and Wayne series, Book 3)",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Trust Me, I'm Lying",
     "authors": [
       "Ryan Holiday"
@@ -1628,6 +1628,20 @@
     "title": "Peace Is Every Step",
     "authors": [
       "Thích Nhất Hạnh"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever",
+    "authors": [
+      "Michael Bungay Stanier"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Barca : The inside story of the world's greatest football club",
+    "authors": [
+      "Simon Kuper"
     ],
     "label": "Fact"
   }
