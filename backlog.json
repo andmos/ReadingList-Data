@@ -1264,7 +1264,7 @@
     "label": "Fact"
   },
   {
-    "title": "Jon Michelet",
+    "title": "Jon Michelet: En folkets helt",
     "authors": [
       "Mímir Kristjánsson"
     ],
@@ -1642,6 +1642,14 @@
     "title": "Information and Society",
     "authors": [
       "Michael Buckland"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Team Topologies",
+    "authors": [
+      "Matthew Skelton",
+      "Manuel Pais"
     ],
     "label": "Fact"
   }
