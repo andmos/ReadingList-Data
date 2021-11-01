@@ -1,5 +1,12 @@
 [
   {
+    "title": "Information and Society",
+    "authors": [
+      "Michael Buckland"
+    ],
+    "label": "Fact"
+  },
+  {
     "title": "Sixth of the Dusk (Arcanum Unbounded)",
     "authors": [
       "Brandon Sanderson"
@@ -1119,7 +1126,7 @@
     "label": "Fiction"
   },
   {
-    "title": "Catalyst: A Rogue One Novel",
+    "title": "Catalyst: A Rogue One Novel (Star Wars)",
     "authors": [
       "James Luceno"
     ],
