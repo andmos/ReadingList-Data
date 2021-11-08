@@ -1,10 +1,16 @@
 [
   {
-    "title": "Team Topologies",
+    "title": "The Uninhabitable Earth - David Wallace",
     "authors": [
-      "Matthew Skelton",
-      "Manuel Pais"
+      "Wells"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Shadows for Silence in the Forests of Hell - (Arcanum Unbounded)",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
   }
 ]
