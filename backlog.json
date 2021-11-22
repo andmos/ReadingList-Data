@@ -1675,13 +1675,6 @@
     "label": "Fact"
   },
   {
-    "title": "White Sand, Volume 1",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Elantris",
     "authors": [
       "Brandon Sanderson"
@@ -1692,6 +1685,13 @@
     "title": "The Emperor's Soul",
     "authors": [
       "Brandon Sanderson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Cryptonomicon",
+    "authors": [
+      "Neal Stephenson"
     ],
     "label": "Fiction"
   }
