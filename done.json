@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Internet of Money: A collection of talks, Volume 1",
+    "authors": [
+      "Andreas M. Antonopoulos"
+    ],
+    "label": "Fact"
+  },
+  {
     "title": "White Sand, Volume 1",
     "authors": [
       "Brandon Sanderson"
@@ -7,9 +14,9 @@
     "label": "Fiction"
   },
   {
-    "title": "The Uninhabitable Earth - David Wallace",
+    "title": "The Uninhabitable Earth",
     "authors": [
-      "Wells"
+      "David Wallace Wells"
     ],
     "label": "Fact"
   },
