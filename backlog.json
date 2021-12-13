@@ -1679,5 +1679,26 @@
       "Neal Stephenson"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Mistborn: The Lost Metal (Mistborn: The Wax and Wayne series, Book 4)",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Great Britain's Great War",
+    "authors": [
+      "Jeremy Paxman"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Billion Dollar Loser: The Epic Rise and Fall of WeWork",
+    "authors": [
+      "Reeves Wiedeman"
+    ],
+    "label": "Fact"
   }
 ]
