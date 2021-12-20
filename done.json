@@ -1,5 +1,13 @@
 [
   {
+    "title": "Good Omens",
+    "authors": [
+      "Neil Gaiman",
+      "Terry Pratchett"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "The Internet of Money: A collection of talks, Volume 1",
     "authors": [
       "Andreas M. Antonopoulos"
