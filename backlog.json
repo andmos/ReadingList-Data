@@ -1707,5 +1707,19 @@
       "John Gwynne"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Tillitsmannen Martin Kolberg",
+    "authors": [
+      "Hege Ullstein"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Courage Is Calling",
+    "authors": [
+      "Ryan Holiday"
+    ],
+    "label": "Fact"
   }
 ]
