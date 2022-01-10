@@ -931,13 +931,6 @@
     "label": "Fact"
   },
   {
-    "title": "Bullshit Jobs: A Theory",
-    "authors": [
-      "David Graeber"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life",
     "authors": [
       "Eric Klinenberg"
@@ -1418,13 +1411,6 @@
     "label": "Fact"
   },
   {
-    "title": "Pocket Piketty: A Handy Guide to Capital in the Twenty-First Century",
-    "authors": [
-      "Jesper Roine"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
     "authors": [
       "Scott Galloway"
@@ -1472,16 +1458,6 @@
       "Adam Christopher"
     ],
     "label": "Fiction"
-  },
-  {
-    "title": "Markedsmennesker: Kritikk av tidsånden",
-    "authors": [
-      "Oscar Dybedahl",
-      "Sigurd Hverven",
-      "Ila Innset",
-      "Mimir Kristjansson"
-    ],
-    "label": "Fact"
   },
   {
     "title": "Galileo And the Science Deniers",
@@ -1660,7 +1636,7 @@
     "label": "Fiction"
   },
   {
-    "title": "The Emperor's Soul",
+    "title": "Hope for Elantris - (Arcanum Unbounded)",
     "authors": [
       "Brandon Sanderson"
     ],
@@ -1719,6 +1695,21 @@
     "title": "Courage Is Calling",
     "authors": [
       "Ryan Holiday"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Art of Agile Development",
+    "authors": [
+      "James Shore",
+      "Shane Warden"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Think Again: The Power of Knowing What You Don't Know",
+    "authors": [
+      "Adam Grant"
     ],
     "label": "Fact"
   }
