@@ -1712,5 +1712,13 @@
       "Adam Grant"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture",
+    "authors": [
+      "Vaughn Vernon",
+      "Tomasz Jaskula"
+    ],
+    "label": "Fact"
   }
 ]
