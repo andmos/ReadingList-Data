@@ -1629,13 +1629,6 @@
     "label": "Fact"
   },
   {
-    "title": "Elantris",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Hope for Elantris - (Arcanum Unbounded)",
     "authors": [
       "Brandon Sanderson"
@@ -1718,6 +1711,13 @@
     "authors": [
       "Vaughn Vernon",
       "Tomasz Jaskula"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Positivt Lederskap",
+    "authors": [
+      "Merethe Drønnen"
     ],
     "label": "Fact"
   }
