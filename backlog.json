@@ -1418,13 +1418,6 @@
     "label": "Fiction"
   },
   {
-    "title": "Greenlights",
-    "authors": [
-      "Matthew McConaughay"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "The Second Mountain: The Quest for a Moral Life",
     "authors": [
       "David Brooks"
@@ -1711,6 +1704,13 @@
     "authors": [
       "Vaughn Vernon",
       "Tomasz Jaskula"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Beginning of Infinity: Explanations That Transform the World",
+    "authors": [
+      "David Deutsch"
     ],
     "label": "Fact"
   }
