@@ -1401,9 +1401,9 @@
     "label": "Fact"
   },
   {
-    "title": "Franz Kafka",
+    "title": "Slottet",
     "authors": [
-      "Slottet"
+      "Franz Kafka"
     ],
     "label": "Fiction"
   },
@@ -1472,16 +1472,16 @@
     "label": "Fiction"
   },
   {
-    "title": "Franz Kafka",
+    "title": "Forvandlingen",
     "authors": [
-      "Forvandlingen"
+      "Franz Kafka"
     ],
     "label": "Fiction"
   },
   {
-    "title": "Franz Kafka",
+    "title": "Prosessen",
     "authors": [
-      "Prosessen"
+      "Franz Kafka"
     ],
     "label": "Fiction"
   },
@@ -1762,7 +1762,7 @@
   {
     "title": "The Crystal Shard: Legend of Drizzt: Icewind Dale Trilogy, Book 1",
     "authors": [
-      "R. A. Salvatore"
+      "R.A Salvatore"
     ],
     "label": "Fiction"
   },
