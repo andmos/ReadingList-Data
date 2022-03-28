@@ -1720,5 +1720,33 @@
       "Brandon Sanderson"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Yumi and the Nightmare Painter",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Sunlit Man",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Once Upon a Time in Russia: The Rise of the Oligarchs and the Greatest Wealth in History",
+    "authors": [
+      "Ben Mezrich"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Tankespinn",
+    "authors": [
+      "Ethan Kross"
+    ],
+    "label": "Fact"
   }
 ]
