@@ -4,7 +4,7 @@
 
 ### Metadata
 
-- Author: Ryan Holiday and Stephen Hanselman
+- Author: Ryan Holiday, Stephen Hanselman
 - Full Title: Lives of the Stoics
 - Category: #books
 
