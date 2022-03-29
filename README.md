@@ -5,9 +5,9 @@ Backup repo containing my [ReadingList](https://github.com/andmos/ReadingList.gi
 
 Count author occurrences:
 ```sh
-cat done.json | jq '.[].authors[0]' | sort | uniq -c |sort -nr
+cat done.json | jq '.[].authors[]' | sort | uniq -c |sort -nr
 ```
 Get all titles by author:
 ```sh
-cat backlog.json | jq '.[] | select (.authors[0]=="Richard Feynman").title'
+cat backlog.json | jq '.[] | select (.authors[]=="Richard Feynman").title'
 ```
