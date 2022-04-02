@@ -183,3 +183,35 @@
 - By admitting some of their imperfections out loud, managers demonstrated that they could take it - and make a public commitment to remain open to feedback. They normalized vulnerability, making their teams more comfortable opening up about their own struggles.
 
 - It takes confident humility to admit that we're a work in progress. It shows that we care more about improving ourselves than proving ourselves.
+
+- In performance cultures, people often become attached to best practices. The risk is that once we've declared a routine the best, it becomes frozen in time. We preach about its virtues and stop questioning its vices, no longer curious about where it's imperfect and where it could improve.
+
+- Focusing on results might be good for short-term performance, but it can be an obstacle to long term learning.
+
+- Exclusively praising and rewarding results is dangerous because it breeds overconfidence in poor strategies, incentivizing people to keep doing things the way they've always done them.
+
+- Research shows that when we have to explain the procedures behind our decisions in real time, we think more critically and process the possibilities more thoroughly.
+
+- When psychological safety exists without accountability, people tend to stay within their comfort zone, and when there's accountability but no safety, people tend to stay silent in an anxiety zone. When we combine the two, we create a learning zone.
+
+- Rethinking is more likely when we separate the initial decision makers from the later decision evaluators.
+
+- Escalation of commitment: When we dedicate ourselves to a plan and it isn't going as we hoped, our first instinct isn't usually to rethink it. Instead, we tend to double down and sink more resources in the plan. This pattern is called escalation of commitment.
+
+- Escalation of commitment happens because we're rationalizing creatures, constantly searching for self-justification for our prior beliefs as a way to soothe our egos, shield our images, and validate our past decisions.
+
+- Tell the kids the truth... You can be anything yo're good at... as long as they're hiring. - Chris Rock
+
+- We might be better off learning about careers as actions to take rather than as identities to claim.
+
+- When we pursue happiness, we often start by changing our surroundings. We expect to find bliss in a warmer climate or a friendlier dorm, but any joy that those choices bring about is typically temporary.
+
+- You can't get away from yourself by moving from one place to another. - Ernest Hemingway
+
+- Our happiness often depends more on what we do than where we are. It's our actions - not our surroundings - that bring us meaning and belonging.
+
+- Passions are often developed, not discovered. Passion grows as we we gain momentum and mastery.
+
+- Careers, relationships, and communities are examples of what scientists call open systems - they're constantly in flux because they're not closed off from the environments around them.
+
+- Writing out a plan for your life is like driving at night in the fog. You can only see as far as your headlights, but you can make the whole trip that way. - E.L Doctorow
