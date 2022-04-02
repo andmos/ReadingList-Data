@@ -1741,5 +1741,12 @@
       "Ethan Kross"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "UNIX: A History and a Memoir",
+    "authors": [
+      "Brian W. Kernighan"
+    ],
+    "label": "Fact"
   }
 ]
