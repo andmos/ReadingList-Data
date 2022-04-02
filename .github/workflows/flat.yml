@@ -1,11 +1,14 @@
 name: Readinglist Flat-data sync
 on:
   push:
+    paths-ignore:
+        - "BookNotes"
     branches:
       - master
   workflow_dispatch:
   schedule:
     - cron:  '0 13 * * 1'
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
