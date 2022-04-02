@@ -92,3 +92,94 @@
 
 - In every human society, people are motivated to seek belonging and status. Identifying with a group checks both boxes at the same time: We become part of a tribe, and we take pride when our tribe wins.
 
+- Psychologist George Kelly observed that our beliefs are like pairs of reality googles. We use them to make sense of the world and navigate our surrounding. A threat to our opinions cracks our goggles, leaving our vision blurred. It's only natural to put up our guard in response - and Kelly notices that we become especially hostile when trying to defend opinions that we know, deep down, are false.
+
+- Socially, there's another reason stereotypes are sticky. We tend to interact with people who share them, which makes them even more extreme. This phenomenon is called group polarization, and it's been demonstrated in hundreds of experiments.
+
+- Polarization is reinforced by conformity: peripheral members fit in and gain status by following the lead of the most prototypical members of the group, who often holds the most intense views.
+
+- The overview effect is a cognitive change of consciousness, reported by some astronauts and cosmonauts during spaceflight. After observing our planet from the universe, they feel an obligation and responsibility to take care of that fragile blue dot forever. When you get to see an overview of the Earth from outer space, you realize you share a common identity with all human beings. Term coined by Frank White.
+
+- When we meet group members who defy a stereotype, our first instincts isn't to see them as examples and rethink the stereotype. It's to see them as exceptions and cling to our existing beliefs. 
+
+- If you reflect on it, though, hating an opposing team is an accident of birth. If you had been born in New York instead of Boston, would you really hate the Yankees?
+
+- In psychology, counterfactual thinking involves imagining how the circumstances of our lives could have unfolded differently. When we realize how easily we could have held different stereotypes, we might be more willing to update our views.
+
+- People gain humility when they reflect on how different circumstances could have led them to different beliefs.
+
+- Psychologist find that many of our beliefs are cultural truism: widely shared, bur rarely questioned.
+
+- As a general rule, it's those with greater power who need to do more of the rethinking, both because they're more likely to privilege their own perspectives and because their perspectives are more likely to go unquestioned.
+
+- When we choose not to engage with people because of their stereotypes or prejudice, we give up on opening their minds.
+
+- It' a rare person who wants to hear what he doesn't want to hear - Attributed to Dick Cavett.
+
+- This is a common problem in persuasion: what doesn't sway us can make our beliefs stronger. Much like like a vaccine inoculates our physical immune system against a virus, the act of resistance fortifies our psychological immune system.
+
+- Motivational interviewing, the central premise is that we can rarely motivate someone else to change. We're better off helping them find their own motivation to change. The process of motivational interviewing involves three key techniques: Asking open-ended questions, engaging in reflective listening, affirming the person's desire and ability to change.
+
+- The goal isn't to tell people what to do; it's to help them break out of overconfidence cycles and see new possibilities.
+
+- When people ignore advice, it isn't always because they disagree with it. Sometimes they're resisting the sense of pressure and the feeling that someone else is controlling their decisions.
+
+- Listening well is more than a matter of talking less. It's a set of skills in asking and responding. It starts with showing more interest in other people's interests rather than trying to judge their status or prove our own.
+
+- Although people want a doctor to fix their broken bones, when it comes to the prolems in their heads, they often want sympathy rather than solutions.
+
+- Even the devil appreciates being listened to. - Betty Bigombe
+
+- In a series of experiments, interacting with an empathetic, nonjudgmental, attentive listener made people less anxious and defensive.
+
+- Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.
+
+- The power of listening doesn't lie just in giving people the space to reflect on their views. It's a display of respect and an expression of care.
+
+- Listening is a way of offering others our scarcest, most precious gift: our attention.
+
+- Binary bias: It's a basic human tendency to seek clarity and closure by simplifying a complex continuum in two categories.
+
+- Skepticism is foundational to the scientific method, whereas denial is the a priori rejection of ideas without objective consideration.
+
+- When we're reading listening, or watching, we can learn to recognize complexity as a signal of credibility. We can favor content and sources that present many sides of an issue rather than just one or two.
+
+- Experiments have shown that when experts express doubt, they become more persuasive.
+
+- Psychologists find that people will ignore or even deny the existence of of a problem if they're not fond of the solution.
+
+- Acknowledging complexity doesn't make speakers and writers less convincing; it makes them more credible. It doesn't lose viewers and readers; it maintains their engagement while stoking their curiosity.
+
+- If you find yourself saying XXXX is always good or XXXX is never bad, you may be a member of an idea cult. Appreciating complexity reminds us that no behavior is always effective and that all cures have unintended consequences.
+
+- Perspective-taking consistently fails because we're terrible mind readers. We're just guessing. If we can't understand someone, we can't have a eureka moment by imagining his perspective. What works is not perspective-taking but perspective-seeking: actually talking to people to gain insight into the nuances of their views.
+
+- It turns out that even if we disagree strongly with someone on a social issue, when we discover that she cares deeply about the issue, we trust her more. We might still dislike her, but we see her passion for a principle as a sign of integrity. We reject the beliefs but grow to respect the person behind it.
+
+- It turns out that although perfectionists are more likely than their peers to ace school, they don't perform any better than their colleagues at work. This tracks with evidence that, across a wide range of industries, grades are not a strong predictor of job performance.
+
+- Psychologists find that one of the hallmarks of an open mind is responding to confusion with curiosity and interest.
+
+- Confusion can be a cue that there's new territory to be explored or a fresh puzzle to be solved.
+
+- Quality means rethinking, reworking, and polishing - Ron Berger
+
+- Good teachers introduce new thought, but great teachers introduce new ways of thinking.
+
+- If it weren't for the people... earth would be an engineer's paradise. - Kurt Vonnegut
+
+- Although NASA accomplished extraordinary things, they soon become victims of overconfidence cycles. As people took pride in their standard operating procedures, gaining conviction in their routines, and saw their decisions validated through their results, the missed opportunities for rethinking.
+
+- Rethinking is more likely to happen in a learning culture, where growth is the core value and rethinking cycles are routine. In learning cultures, the norm is for people to know what they don't know, doubt their existing practices, and stay curious about new routines to try out. Evidence shows that in learning cultures, organizations innovate more and make fewer mistakes.
+
+- Psychologically safe teams reported more errors, but the actually made fewer errors. By freely admitting their mistakes, they were then able to learn what had caused them and eliminate them moving forward. In psychological unsafe teams, people hid their mishaps to avoid penalties, which made it difficult for anyone to diagnose the root causes and prevent future problems. They kept repairing the same problems.
+
+- The most important factor in teams isn't who is on them or how meaningful they find the work: it is how psychologically safe they felt.
+
+- In performance cultures, we also censor ourselves in the presence of experts who seem to know all the answers - especially if we lack confidence in our own expertise.
+
+- 'How do you know?' It's a question we need to ask more often, both of ourselves and others. The power lies in its frankness. It's nonjudgmental - a straightforward expression of doubt and curiosity that doesn't put people on the defensive.
+
+- By admitting some of their imperfections out loud, managers demonstrated that they could take it - and make a public commitment to remain open to feedback. They normalized vulnerability, making their teams more comfortable opening up about their own struggles.
+
+- It takes confident humility to admit that we're a work in progress. It shows that we care more about improving ourselves than proving ourselves.
