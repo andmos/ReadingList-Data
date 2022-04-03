@@ -12,7 +12,7 @@
 
 - The People claiming to opt-out of power-games, showing powerlessness, no motive or selflessness are most often the most cunning in the game of power themselves. Being honest, selfless is in itself a power move.
 
-- Showing naiveté and and 'not knowing' can be an effective deceit. Those who acts most innocent are seldom that.
+- Showing naiveté and 'not knowing' can be an effective deceit. Those who acts most innocent are seldom that.
 
 - There is great strength in mastering your emotions. Anger is often the most destructive.
 
