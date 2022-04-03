@@ -2,7 +2,7 @@ name: Readinglist Flat-data sync
 on:
   push:
     paths-ignore:
-        - "BookNotes"
+        - "BookNotes/*"
     branches:
       - master
   workflow_dispatch:
