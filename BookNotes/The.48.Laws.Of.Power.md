@@ -64,7 +64,7 @@
 
 - Rule 17: Keep others in suspended terror: cultivate and air of unpredictability. Humans are creatures of habit with a need to see familiarity in other peoples action: your predictability gives a sense of control. Turn the tables, be deliberately unpredictable. Actions with no consistency or purpose will keep them off balance, trying to explain your moves among themselves. Be unpredictable, break up patterns.
 
-- Rule 18: Do not build fortresses to protect yourself, isolation is dangerous. Isolation exposes you yo more danger than it protects you from it: it cuts you off from valuable information, it makes you suspicious and an easy target. Better to circulate with people and find allies. You are safe from enemies in a crowd. Don't isolate, be open, move around and make allies.
+- Rule 18: Do not build fortresses to protect yourself, isolation is dangerous. Isolation exposes you to more danger than it protects you from it: it cuts you off from valuable information, it makes you suspicious and an easy target. Better to circulate with people and find allies. You are safe from enemies in a crowd. Don't isolate, be open, move around and make allies.
 
 - Isolation is dangerous. For the creative, it results in a loss of proportion, an obsession with details combined with an ability to not see the bigger picture.
 
