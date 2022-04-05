@@ -120,7 +120,7 @@
 
 - Who we are cannot be separated from where we’re from—and when we ignore that fact, planes crash.
 
-- “NO ONE WHO CAN RISE BEFORE DAWN THREE HUNDRED SIXTY DAYS A YEAR FAILS TO MAKE HIS FAMILY RICH.”
+- “No one who can rise before dawn three hundred sixty days a year fails to make his family rich.”
 
 - Chinese number words are remarkably brief. Most of them can be uttered in less than one-quarter of a second (for instance, 4 is “si” and 7 “qi”). Their English equivalents—“four,” “seven”—are longer: pronouncing them takes about one-third of a second. The memory gap between English and Chinese apparently is entirely due to this difference in length. In languages as diverse as Welsh, Arabic, Chinese, English and Hebrew, there is a reproducible correlation between the time required to pronounce numbers in a given language and the memory span of its speakers. In this domain, the prize for efficacy goes to the Cantonese dialect of Chinese, whose brevity grants residents of Hong Kong a rocketing memory span of about 10 digits.
 
