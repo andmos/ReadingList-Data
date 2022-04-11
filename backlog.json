@@ -1285,13 +1285,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Blade Itself: The First Law: Book One",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Mastery",
     "authors": [
       "Robert Greene"
@@ -1748,5 +1741,19 @@
       "Brian W. Kernighan"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Before They Are Hanged: The First Law: Book Two",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Last Argument of Kings: The First Law: Book Three",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
   }
 ]
