@@ -15,3 +15,5 @@
 - Time management is pain management. Distractions cost us time, and like all actions, they are spurred by the desire to escape discomfort. - Nir Eyal
 
 - Humans work best with others when can predict their behavior. Build trust by providing consistent experiences for others over time. Clear boundaries and responsibilities. Roles helps by defining expected behavior. 
+
+- There is no capacity to get bored with the things we say to ourselves. - Sam Harris
