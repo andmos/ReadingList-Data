@@ -1755,5 +1755,33 @@
       "Joe Abercrombie"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life - Jon Kabat",
+    "authors": [
+      "Zinn"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+    "authors": [
+      "Eric Jorgenson"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "This Is Vegan Propaganda: (And Other Lies the Meat Industry Tells You)",
+    "authors": [
+      "Ed Winters"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+    "authors": [
+      "Christopher McDougall"
+    ],
+    "label": "Fact"
   }
 ]
