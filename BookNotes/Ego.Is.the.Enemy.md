@@ -10,6 +10,22 @@
 
 ### Highlights
 
+- Your worst enemy lives in you. "Wherever you are, whatever you’re doing, your worst enemy already lives inside you: your ego." Since pride is in us, it is either we feed it or starve it. How you deal with your pride makes the big difference.
+
+- Manage your pride "Your ego is not some power you’re forced to satiate at every turn. It can be managed. It can be directed." As soon as you feel you are becoming egoistic, boastful, and proud – you can tell yourself to stop.
+
+- Pride tells you to talk, humility tells you to listen. Ego encourages you to lift yourself and base your worth on nothing or false worth. On the other hand, humility tells you how important it is to listen to people.
+
+- Become a student. Ego tells you not to listen to anyone. As a result, you stop learning. When you become a student, you lay aside your pride. You admit to yourself that you don’t know everything. So, if you want to keep on learning, learn to be humble first.
+
+- Help people become great. Ego focuses on self. Humility focuses on others. If you want to become great, you need to help other people become great. That’s just how the universal law works.
+
+- Don’t be afraid to take the low position. Ego drives you to make certain decisions just to please others, causing a lot of problems along the way. Do what other people refuse to do simply because they think they are too important to do it themselves.
+
+- Ego sways us from our ultimate goal. "We’re never happy with what we have, we want what others have too. We start out knowing what is important to us, but once we’ve achieved it, we lose sight of our priorities. Ego sways us, & can ruin us."
+
+- Ego is the wicked sister of success & failure. When you succeed, don’t give in to the temptation of feeling important. Don’t think that you are better than others just because you have succeeded. When you fail, don’t feel like you have been cheated or u have been sabotaged.
+
 - The first principle is that you must not fool yourself—and you are the easiest person to fool. —RICHARD FEYNMAN ([Location 197](https://readwise.io/to_kindle?action=open&asin=B015NTIXWE&location=197))
 - The ego we see most commonly goes by a more casual definition: an unhealthy belief in our own importance. Arrogance. Self-centered ambition. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B015NTIXWE&location=210))
 - We can’t improve the world if we don’t understand it or ourselves. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B015NTIXWE&location=233))
