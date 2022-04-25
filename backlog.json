@@ -65,10 +65,10 @@
   {
     "title": "Design Patterns",
     "authors": [
-      "Gamma",
-      "Helm",
-      "Johnson",
-      "Vlissides"
+      "Erich Gamma",
+      "Richard Helm",
+      "Ralph Johnson",
+      "John Vlissides"
     ],
     "label": "Fact"
   },
@@ -1098,13 +1098,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Tipping Point",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "INSPIRED: How to Create Tech Products Customers Love",
     "authors": [
       "Marty Cagan"
@@ -1743,13 +1736,6 @@
     "label": "Fact"
   },
   {
-    "title": "Before They Are Hanged: The First Law: Book Two",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Last Argument of Kings: The First Law: Book Three",
     "authors": [
       "Joe Abercrombie"
@@ -1757,9 +1743,9 @@
     "label": "Fiction"
   },
   {
-    "title": "Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life - Jon Kabat",
+    "title": "Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life",
     "authors": [
-      "Zinn"
+      "Jon Kabat Zinn"
     ],
     "label": "Fact"
   },
@@ -1781,6 +1767,22 @@
     "title": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
     "authors": [
       "Christopher McDougall"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Rithmatist",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Age of AI: And Our Human Future",
+    "authors": [
+      "Henry Kissinger",
+      "Eric Schmidt",
+      "Daniel Huttenlocher"
     ],
     "label": "Fact"
   }
