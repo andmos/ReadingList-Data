@@ -1785,5 +1785,33 @@
       "Daniel Huttenlocher"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "The Art of Thinking Clearly",
+    "authors": [
+      "Rolf Dobelli"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "A People's Green New Deal",
+    "authors": [
+      "Max Ajl"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "A Little Hatred: Age of Madness: Book One",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Best Served Cold",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
   }
 ]
