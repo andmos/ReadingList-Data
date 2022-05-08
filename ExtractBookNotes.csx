@@ -6,7 +6,15 @@ var rawHtmlDocument = await File.ReadAllTextAsync(Args[0]);
 var document = new HtmlDocument();
 document.LoadHtml(rawHtmlDocument);
 
-Console.WriteLine($"### Highlights {Environment.NewLine}");
+Console.WriteLine($"# {document.DocumentNode.SelectNodes("//div[contains(@class,'bookTitle')]").FirstOrDefault().InnerText.Trim()}");
+Console.WriteLine($"");
+Console.WriteLine($"### Metadata");
+Console.WriteLine($"- Author: {document.DocumentNode.SelectNodes("//div[contains(@class,'authors')]").FirstOrDefault().InnerText.Trim()}");
+Console.WriteLine($"- Full Title: {document.DocumentNode.SelectNodes("//div[contains(@class,'bookTitle')]").FirstOrDefault().InnerText.Trim()}");
+Console.WriteLine($"- Category: #books");
+Console.WriteLine($"");
+Console.WriteLine($"### Highlights {Environment.NewLine.Trim()}");
+
 foreach(HtmlNode div in document.DocumentNode.SelectNodes("//div[contains(@class,'noteText')]"))
 {
     Console.WriteLine($"- {div.InnerText.Trim()}{Environment.NewLine}");
