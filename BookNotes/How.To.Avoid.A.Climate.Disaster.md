@@ -68,7 +68,7 @@
 
 - Hydrogen is also a very lightweight gas, which makes it hard to store within a reasonably sized container. It’s easier to store the gas if you pressurize it (you can squeeze more into the same-volume container), but because hydrogen molecules are so small, when they’re under pressure, they can actually migrate through metals. It’s as if your gas tank slowly leaked gas as you filled up.
 
-- HOW WE MAKE THINGS 31 percent of 51 billion tons per year
+- How we make things: 31 percent of 51 billion tons per year
 
 - Making 1 ton of steel produces about 1.8 tons of carbon dioxide.
 
@@ -80,7 +80,7 @@
 
 - Yet even if these approaches are successful, they won’t give us 100 percent carbon-free cement. For the foreseeable future, we’ll have to count on carbon capture and—if it becomes practical—direct air capture to grab the carbon emitted when we make cement.
 
-- HOW WE GROW THINGS 19 percent of 51 billion tons a year
+- How we grow things: 19 percent of 51 billion tons a year
 
 - Raising animals for food is a major contributor of greenhouse gas emissions; it ranks as the highest contributor in the sector that experts call “agriculture, forestry, and other land use,” which in turn covers a huge range of human activity, from raising animals and growing crops to harvesting trees.
 
