@@ -1,6 +1,8 @@
 # Outliers: The Story of Success
 
+
 ### Metadata
+
 
 - Author: Different
 - Full Title: Random quotes
@@ -19,3 +21,5 @@
 - There is no capacity to get bored with the things we say to ourselves. - Sam Harris
 
 - The cure for boredom is curiosity. There is no cure for curiosity. - Dorothy Parker
+
+- Ff you can’t find joy in a cup of coffee, you won’t find it in a yacht. Gratitude treats all things the same.
