@@ -22,4 +22,4 @@
 
 - The cure for boredom is curiosity. There is no cure for curiosity. - Dorothy Parker
 
-- Ff you can’t find joy in a cup of coffee, you won’t find it in a yacht. Gratitude treats all things the same.
+- If you can’t find joy in a cup of coffee, you won’t find it in a yacht. Gratitude treats all things the same.
