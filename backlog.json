@@ -1813,5 +1813,19 @@
       "Joe Abercrombie"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Lenin's Tomb: The Last Days Of The Soviet Empire",
+    "authors": [
+      "David Remnick"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Culture Code: The Secrets of Highly Successful Groups",
+    "authors": [
+      "Daniel Coyle"
+    ],
+    "label": "Fact"
   }
 ]
