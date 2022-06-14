@@ -1524,13 +1524,6 @@
     "label": "Fiction"
   },
   {
-    "title": "Atomic Habits",
-    "authors": [
-      "James Clear"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Diplomacy",
     "authors": [
       "Henry Kissinger"
@@ -1839,6 +1832,13 @@
     "title": "The Guns of August",
     "authors": [
       "Barbara Tuchman"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going",
+    "authors": [
+      "Vaclav Smil"
     ],
     "label": "Fact"
   }
