@@ -53,11 +53,11 @@ Enlightenment
 
 - In my view, the realistic goal to be attained through spiritual practice is not some permanent state of enlightenment that admits of no further efforts but a capacity to be free in this moment, in the midst of whatever is happening. If you can do that, you have already solved most of the problems you will encounter in life.
 
-- If you think the important part of consciousness is its link to speech and behavior, spare a moment to consider the problem of “anesthesia awareness.” It is a cure for much bad philosophy.5
+- If you think the important part of consciousness is its link to speech and behavior, spare a moment to consider the problem of “anesthesia awareness.” It is a cure for much bad philosophy.
 
 - To say that consciousness may only seem to exist, from the inside, is to admit its existence in full—for if things seem any way at all, that is consciousness.
 
-- Were we not already brimming with consciousness ourselves, we would find no evidence for it in the universe—nor would we have any notion of the many experiential states that it gives rise to. The only proof that it is like something to be you at this moment is the fact (obvious only to you) that it is like something to be you.10
+- Were we not already brimming with consciousness ourselves, we would find no evidence for it in the universe—nor would we have any notion of the many experiential states that it gives rise to. The only proof that it is like something to be you at this moment is the fact (obvious only to you) that it is like something to be you.
 
 - To say that a system is alive is very much like saying that it is fluid, because life is a matter of what systems do with respect to their environment. Like fluidity, life is defined according to external criteria.
 
@@ -84,7 +84,7 @@ Consciousness Is What Matters
 
 - Whatever the needs of the moment, I had a choice: I could do what was required calmly, patiently, and attentively, or do it in a state of panic. Every moment of the day—indeed, every moment throughout one’s life—offers an opportunity to be relaxed and responsive or to suffer unnecessarily. We can address mental suffering of this kind on at least two levels. We can use thoughts themselves as an antidote, or we can stand free of thought altogether. The first technique requires no experience with meditation, and it can work wonders if one develops the appropriate habits of mind. Many people do it quite naturally; it’s called “looking on the bright side.”
 
-- In fact, the effects of consciously practicing gratitude have been studied: When compared to merely thinking about significant life events, contemplating daily hassles, or comparing oneself favorably to others, thinking about what one is grateful for increases one’s feelings of well-being, motivation, and positive outlook toward the future.5
+- In fact, the effects of consciously practicing gratitude have been studied: When compared to merely thinking about significant life events, contemplating daily hassles, or comparing oneself favorably to others, thinking about what one is grateful for increases one’s feelings of well-being, motivation, and positive outlook toward the future.
 
 - Most of us let our negative emotions persist longer than is necessary. Becoming suddenly angry, we tend to stay angry—and this requires that we actively produce the feeling of anger. We do this by thinking about our reasons for being angry—recalling an insult, rehearsing what we should have said to our malefactor, and so forth—and yet we tend not to notice the mechanics of this process. Without continually resurrecting the feeling of anger, it is impossible to stay angry for more than a few moments.
 
