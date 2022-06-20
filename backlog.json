@@ -985,13 +985,6 @@
     "label": "Fact"
   },
   {
-    "title": "Superintelligence: Paths, Dangers, Strategies",
-    "authors": [
-      "Nick Bostrom"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Superminds: How Hyperconnectivity is Changing the Way We Solve Problems",
     "authors": [
       "Thomas W. Malone"
@@ -1839,6 +1832,13 @@
     "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going",
     "authors": [
       "Vaclav Smil"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "A Brief History of Equality",
+    "authors": [
+      "Thomas Piketty"
     ],
     "label": "Fact"
   }

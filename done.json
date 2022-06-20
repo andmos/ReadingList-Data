@@ -1,5 +1,12 @@
 [
   {
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "authors": [
+      "James Clear"
+    ],
+    "label": "Fact"
+  },
+  {
     "title": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
     "authors": [
       "Christopher McDougall"
@@ -334,9 +341,10 @@
     "label": "Fiction"
   },
   {
-    "title": "The Future We Choose: Surviving the Climate Crisis - Christiana Figueres, Tom Rivett",
+    "title": "The Future We Choose: Surviving the Climate Crisis",
     "authors": [
-      "Carnac"
+      "Christiana Figueres",
+      "Tom Rivett Carnac"
     ],
     "label": "Fact"
   },
