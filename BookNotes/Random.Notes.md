@@ -24,4 +24,6 @@
 
 - If you can’t find joy in a cup of coffee, you won’t find it in a yacht. Gratitude treats all things the same.
 
-- Tools can be a subtle trap. Neil Gaiman, The Sandman
+- Tools can be a subtle trap. -  Neil Gaiman, The Sandman
+
+- Uncertainty is an uncomfortable position. But certainty is an absurd one - Voltaire
