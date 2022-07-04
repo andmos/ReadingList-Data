@@ -1841,5 +1841,27 @@
       "Thomas Piketty"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Snow Crash",
+    "authors": [
+      "Neal Stephenson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Tiger: A True Story of Vengeance and Survival",
+    "authors": [
+      "John Vaillant"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Skunk Works: A Personal Memoir of My Years of Lockheed",
+    "authors": [
+      "Leo Janos",
+      "Ben R. Rich"
+    ],
+    "label": "Fact"
   }
 ]
