@@ -12,6 +12,12 @@
 
 - Some things have to be done. It's better to do them, than to live in the fear of them.
 
+- Once you've got a task to do, it's better to do it than live with the fear of it.
+
+- You have to learn to love the small things in life, like a hot bath. You have to love the small things, when you have nothing else.
+
+- Life – the way it really is – is a battle not between good and bad, but between bad and worse. - Joseph Brodsky
+
 - If a man seeks to change the world, he should first understand it.
 
 - Knowledge is often the antidote to fear.
