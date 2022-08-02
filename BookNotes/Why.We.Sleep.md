@@ -1,11 +1,11 @@
-# Why We Sleep: Unlocking the Power of Sleep and Dreams 
+# Why We Sleep: Unlocking the Power of Sleep and Dreams
 
 ![](https://images-na.ssl-images-amazon.com/images/I/91JxEYMbYbL.jpg)
 
 ### Metadata
 
 - Author: Matthew Walker
-- Full Title: Why We Sleep: Unlocking the Power of Sleep and Dreams 
+- Full Title: Why We Sleep: Unlocking the Power of Sleep and Dreams
 - Category: #books
 
 ### Highlights
@@ -24,4 +24,4 @@
 
 - When sleep is abundant, minds flourish. When it is deficient, they don't.
 
-- Humans are not sleeping the way nature intended. The number of sleep bouts, the duration of sleep, and when sleep occurs has all been comprehensively distorted by modernity. 
+- Humans are not sleeping the way nature intended. The number of sleep bouts, the duration of sleep, and when sleep occurs has all been comprehensively distorted by modernity.
