@@ -29,3 +29,5 @@
 - Uncertainty is an uncomfortable position. But certainty is an absurd one - Voltaire
 
 - Conquering mountains is an ironic phrase. We are not conquering them. We can never pretend to be fighting nature because we are part of it. - Kílian Jornet
+
+- The first principle is that you must not fool yourself. And you are the easiest person to fool. - Richard Feynman
