@@ -1,9 +1,16 @@
 [
   {
-    "title": "Superintelligence: Paths, Dangers, Strategies",
+    "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
     "authors": [
-      "Nick Bostrom"
+      "Morgan Housel"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Sharp Ends",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
   }
 ]
