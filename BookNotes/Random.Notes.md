@@ -31,3 +31,6 @@
 - Conquering mountains is an ironic phrase. We are not conquering them. We can never pretend to be fighting nature because we are part of it. - Kílian Jornet
 
 - The first principle is that you must not fool yourself. And you are the easiest person to fool. - Richard Feynman
+
+- Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years. - Bill Gates
+
