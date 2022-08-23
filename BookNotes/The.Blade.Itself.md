@@ -25,3 +25,5 @@
 - Well. What can we do, except try to do better?
 
 - The more you learn, the more you realize how little you know. Still, the struggle itself is worthwhile. Knowledge is the root of power, after all.
+
+- The one upside of being a thief; Shev muttered through tight lips, 'is that you can make free with things that don't belong to you. It's practically a requirement of the job.'
