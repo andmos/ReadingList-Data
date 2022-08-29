@@ -1877,5 +1877,19 @@
       "Ryan Holiday"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Blodmåne",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Four Thousand Weeks",
+    "authors": [
+      "Oliver Burkeman"
+    ],
+    "label": "Fact"
   }
 ]
