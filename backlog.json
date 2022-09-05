@@ -759,14 +759,6 @@
     "label": "Fact"
   },
   {
-    "title": "Continuous Delivery with Windows and .NET",
-    "authors": [
-      "Matthew Skelton",
-      "Chris O'Dell"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Agile Retrospectives",
     "authors": [
       "Esther Derby",
@@ -831,13 +823,6 @@
     "label": "Fact"
   },
   {
-    "title": "Drapet på Kommandanten, del 1",
-    "authors": [
-      "Haruki Murakami"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "1Q84",
     "authors": [
       "Haruki Murakami"
@@ -860,13 +845,6 @@
   },
   {
     "title": "Hvorfor Ytre Høyre Vinner Debatten",
-    "authors": [
-      "Eivind Trædal"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Det svarte skiftet",
     "authors": [
       "Eivind Trædal"
     ],
@@ -1889,6 +1867,13 @@
     "title": "Four Thousand Weeks",
     "authors": [
       "Oliver Burkeman"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Status Game: On Social Position and How We Use It",
+    "authors": [
+      "Will Storr"
     ],
     "label": "Fact"
   }
