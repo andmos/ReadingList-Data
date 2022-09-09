@@ -18,7 +18,7 @@
 
 - So I have invented another myth for myself–that I’m irresponsible. I tell everybody, I don’t do anything. If anybody asks me to be on a committee to take care of admissions, no, I’m irresponsible, I don’t give a damn about the students–of course I give a damn about the students but I know that somebody else’ll do it–and I take the view, “Let George do it,” a view which you’re not supposed to take, okay, because that’s not right to do, but I do that because I like to do physics and I want to see if I can still do it, and so I’m selfish, okay? I want to do my physics.
 
-- It turned out that, although I–you see, when I hear about physics I just think about physics and I don’t know who I’m talking to and I say the dopiest things like no, no, you’re wrong or you’re crazy–but it turned out that’s exactly what he needed.
+- It turned out that, although I–you see, when I hear about physics I just think about physics and I don’t know who I’m talking to and I say the dopiest things like no, no, you’re wrong or you’re crazy–but it turned out that’s exactly what he [Einstein] needed.
 
 - Neumann gave me was an idea that he had which was interesting. That you don’t have to be responsible for the world that you’re in, and so I have developed a very powerful sense of social irresponsibility as a result of Von Neumann’s advice. It’s made me a very happy man since. But it was Von Neumann who put the seed in which grew now into my active irresponsibility!
 
