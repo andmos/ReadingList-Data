@@ -1062,13 +1062,6 @@
     "label": "Fiction"
   },
   {
-    "title": "The World Until Yesterday",
-    "authors": [
-      "Jared Diamond"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "INSPIRED: How to Create Tech Products Customers Love",
     "authors": [
       "Marty Cagan"
@@ -1876,5 +1869,12 @@
       "Will Storr"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Gardens of the Moon (Malazan Book of the Fallen, Book 1)",
+    "authors": [
+      "Steven Erikson"
+    ],
+    "label": "Fiction"
   }
 ]
