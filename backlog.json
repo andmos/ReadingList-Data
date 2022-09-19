@@ -1876,5 +1876,20 @@
       "Steven Erikson"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Born to Run 2: The Ultimate Training Guide",
+    "authors": [
+      "Christopher McDougall",
+      "Eric Orton"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Above the Clouds: How I Carved My Own Path to the Top of the World",
+    "authors": [
+      "Kilian Jornet"
+    ],
+    "label": "Fact"
   }
 ]
