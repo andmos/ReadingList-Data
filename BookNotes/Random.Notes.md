@@ -35,3 +35,5 @@
 - Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years. - Bill Gates
 
 - I'm a very bad climber, and a ok runner. - Kílian Jornet, 2022
+
+- When you talk, you are only repeating what you already know. But if you listen, you may learn something new. – Dalai Lama
