@@ -1886,9 +1886,30 @@
     "label": "Fact"
   },
   {
-    "title": "Above the Clouds: How I Carved My Own Path to the Top of the World",
+    "title": "Fjellene har meg nå",
     "authors": [
-      "Kilian Jornet"
+      "Stein P. Aasheim"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Meditations",
+    "authors": [
+      "Marcus Aurelius"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Letters from a Stoic",
+    "authors": [
+      "Seneca"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Ultramarathon Man: Confessions of an All-Night Runner",
+    "authors": [
+      "Dean Karnazes"
     ],
     "label": "Fact"
   }
