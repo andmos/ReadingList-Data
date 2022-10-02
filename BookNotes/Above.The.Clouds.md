@@ -151,3 +151,39 @@
 - For a few years now in our society, our materialistic focus on personal image has become as important as our capitalist, materialistic focus on well-being. Until recently, the cultivation of a personal image was limited to politicians and pop stars, but today, nobody is immune. It all began when they started trying to put us at the center of everything, with the typical entrepreneurial slogans, like “You are your own brand!” It continued with companies choosing potential employees based on their social-networking profiles. Or with tech multinationals deciding whether we were better or worse, authentic and unique or a waste of space, according to how many comments or likes we received. Or with our loss of privacy, when it became possible for anyone who cared to find out what you ate, what music you listened to, where you bought your socks, who you admired, and where you were thinking of going on your next vacation. We’ve become obsessed, and now we’re like putty, working away at trying to fit into a mold. We have ended up turning into—they have turned us into—a tiny piece of the commercial world.
 
 - The sports we are sold today are a spectacle, and a spectacle needs an audience. And the audiences are no longer in the stadiums. Or, to put it another way: yes, they are—they’re in the one massive stadium the world has become. Everyone has a preferred seat, in their home. An athlete is an athlete twenty-four hours a day and, on top of training, he has to live “authentically” and have a “take” on everything. And since he’s no longer just talking to four freaks who understand him—the audience is no longer a minority but global—everything he says must be straightforward and simplified, to quickly catch the attention of a public that consumes information at the speed of a machine gun firing a round of bullets. I know I have five or six seconds to produce a spectacular image that will leave you, the spectator, breathless, and grab your attention because it’s interesting and not just entertaining. There’s no need for complicated explanations and “insignificant” details, since those can get a little too interesting. You have to go straight for an easy headline, for a number that’s easy to understand and compare, for competition between news items, athletes, people.
+
+- PEOPLE WANTED ME TO WIN more races, and since it was pretty easy for me, I did, but then they expected me to break records by conquering such-and-such peak or climbing such-and-such mountain, or to say something appropriate, or to defend what I should supposedly be defending. While for a long time what I wanted and what people asked of me were one and the same, now, without my knowing very well how, the bond was broken and I was a prisoner of other people’s projects.
+
+- OUR NAME ACCUMULATES CONNOTATIONS, and as the years go by, it stops being simply what people call us and becomes a backpack loaded with things we can no longer shed.
+
+- If we can’t understand and dominate our surroundings, we get anxious, so we name everything to create the illusion that we understand it, and that it belongs to us. If a place has no name, it doesn’t exist. Language is the vehicle for our thoughts, and if we don’t find the exact word to describe what we think, see, or feel, everything is lost to oblivion and disappears, has never “existed.”
+
+- In some cases it’s not exactly the imagination that’s in charge, and a series of letters and numbers refer to a mountain in a country the topographer doesn’t know, as is the case of K1 and K2.
+
+- There are also mountains named for their “discoverer,” not taking into account that the inhabitants of the place in question must have already had a name for it: Mount McKinley, Mont Cook, Monte Fitz Roy, Pico Russell. Everest, the highest of all, belongs to this category. During the years of the British Empire, the colonizers made maps of India and called it Peak XV, but when they realized it was the highest peak of all, they baptized it in honor of George Everest, the chief surveyor. It didn’t matter that the Tibetans had been calling it Qomolangma for over three hundred years. The Nepalese, when they saw it attracted tourists, contributed to its abundance of names, calling it Sagarmatha.
+
+- Running is pure, simple, and human. The closest to it is walking, which is just what runners do when they’re tired. Both activities fulfill one of human beings’ most basic goals: to move around.
+
+- Beauty is often hiding right outside your door,
+
+- In the end, I know that to achieve intense enjoyment, I have to go to the limit of my comfort zone, then stick to the range of things I know how to do, stretching the limit as far as possible.
+
+- UP THERE ON THE MOUNTAIN IS WHERE I FIND RELIEF FROM PAIN. Death, for me, would be to not go at all.
+
+- EVERYTHING THAT HAPPENED THAT WEEK REMINDED ME OF THE IMPORTANCE of failure, and of failures. We are nothing more than insignificant, fragile people, and this is something we should always keep in mind. Especially when we’ve grown used to success and we get overconfident. We think we’re indestructible and that we can win everything. If we compete, we can be arrogant, but on the mountain, this can end in grief for somebody else.
+
+- In today’s media, things get trivialized, and we end up thinking that only success has value, whereas failure is a sign of weakness. This leads us to choose between lowering the level of our activities to increase our chances of victory, or accepting failure and criticism, and being patient and stubborn enough to keep trying year after year, until maybe one day we achieve our dream. It’s clear that failure doesn’t sell. Newspapers, radio, TV, and digital platforms won’t talk about mere attempts. People only want to hear about success, because heroes are successful; despite the difficulties, through hard work and persistence, they achieve whatever they set their minds to. No one admires a failure.
+
+- The phrase “No news is good news” doesn’t apply when the person you love is on a large mountain. We always think the worst when we don’t hear from them.
+
+- THAT SAME DAY, WE TOOK DOWN THE TENTS WE’D PITCHED AT THE advanced base camp and went down to Rongbuk. Conversations at base camp are like those on Wall Street, except that there, instead of speculating about stocks and money, people talk about the weather forecast.
+
+- Anyway, up there, your emotions only lead you to make the wrong decision. Euphoria distracts you, and fear prevents you from seeing clearly.
+
+- When we climb a mountain, we entrust our body to it, until we reach the bottom and it becomes ours again.
+
+- Some of my friends, who know me well, are surprised when they come to visit, not to see trophies on display on the shelves, full of books and maps. But I’m afraid to end up as a prisoner of my past. Maybe that’s why I’ve never kept any trophy from the races I’ve won.
+
+- I had just gotten back from Everest, but a mountain just over 1,000 meters was reminding me that every mountain, large or small, decides whether or not to offer us the dance we want.
+
+- I’m convinced that the best time is always now, and the best memory is always tomorrow.
