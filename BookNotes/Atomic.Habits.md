@@ -297,4 +297,3 @@
 - “Being poor is not having too little, it is wanting more.”
 
 - The pain of failure correlates to the height of expectation. When desire is high, it hurts to not like the outcome. Failing to attain something you want hurts more than failing to attain something you didn’t think much about in the first place. This is why people say, “I don’t want to get my hopes up.”
-
