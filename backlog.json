@@ -1900,16 +1900,23 @@
     "label": "Fact"
   },
   {
-    "title": "Letters from a Stoic",
+    "title": "The World Until Yesterday",
     "authors": [
-      "Seneca"
+      "Jared Diamond"
     ],
     "label": "Fact"
   },
   {
-    "title": "The World Until Yesterday",
+    "title": "Kampklar",
     "authors": [
-      "Jared Diamond"
+      "Bjørn Mannsverk"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Eliminating Stress, Finding Inner Peace",
+    "authors": [
+      "Brian L. Weiss"
     ],
     "label": "Fact"
   }
