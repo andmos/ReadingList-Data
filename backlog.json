@@ -1347,13 +1347,6 @@
     "label": "Fiction"
   },
   {
-    "title": "The Spy and the Traitor: The Greatest Espionage Story of the Cold War",
-    "authors": [
-      "Ben Macintyre"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
     "authors": [
       "Scott Galloway"
@@ -1435,13 +1428,6 @@
     "title": "Every Tool's a Hammer: Life Is What You Make It",
     "authors": [
       "Adam Savage"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "How to Fight a Hydra: Face Your Fears, Pursue Your Ambitions, and Become the Hero You Are Destined to Be",
-    "authors": [
-      "Josh Kaufman"
     ],
     "label": "Fact"
   },
@@ -1561,13 +1547,6 @@
     "title": "Hope for Elantris - (Arcanum Unbounded)",
     "authors": [
       "Brandon Sanderson"
-    ],
-    "label": "Fiction"
-  },
-  {
-    "title": "Cryptonomicon",
-    "authors": [
-      "Neal Stephenson"
     ],
     "label": "Fiction"
   },
@@ -1772,13 +1751,6 @@
     "label": "Fact"
   },
   {
-    "title": "Jonathan Livingston seagull",
-    "authors": [
-      "Richard Bach"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "The Name of the Wind: The Kingkiller Chronicle: Day One",
     "authors": [
       "Patrick Rothfuss"
@@ -1926,5 +1898,14 @@
       "Jon Michelet"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Seven Summits",
+    "authors": [
+      "Dick Bass",
+      "Frank Wells",
+      "Rick Ridgeway"
+    ],
+    "label": "Fact"
   }
 ]

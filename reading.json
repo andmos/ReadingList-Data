@@ -5,5 +5,12 @@
       "Seneca"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Cryptonomicon",
+    "authors": [
+      "Neal Stephenson"
+    ],
+    "label": "Fiction"
   }
 ]
