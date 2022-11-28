@@ -37,3 +37,5 @@
 - I'm a very bad climber, and a ok runner. - Kílian Jornet, 2022
 
 - When you talk, you are only repeating what you already know. But if you listen, you may learn something new. – Dalai Lama
+
+- You can't think well without writing well, and you can't write well without reading well. And I mean that last "well" in both senses. You have to be good at reading, and read good things. - Paul Graham
