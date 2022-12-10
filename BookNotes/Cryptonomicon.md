@@ -33,3 +33,5 @@
 - "I hate e-mail," John says. Harvard Li stares him in the eye for a while. "What do you mean?" "The concept is good. The execution is poor. People don't observe any security precautions. A message arrives claiming to be from Havard Li, they believe it's really from Harvard Li. But this message is just a pattern of magnetized spots on a spinning disk somewhere. Anyone could forge it." "Ah. You use digital signature algorithm." John considers this carefully. "I do not respond to any e-mail that s not digitally signed. Digital signature algorithm refers to one technique for signing them. It is a good technique, but it could be better."
 
 - "I know you're expecting me to ask for morphine, but I'm not gonna," Shaftoe says. "I just want to talk." "Oh," Root says. "Should I put on my chaplain hat, then?" "I'm a fucking Protestant. I can talk to God myself whenever I goddamn well feel like it."
+
+- "How's the cable business" she mutters. Months ago, she gave up even trying to hide her scorn for the dull work of cable-laying. Pretenses are shabby things that, like papier-mâché houses, must be energetically maintained or they will dissolve.
