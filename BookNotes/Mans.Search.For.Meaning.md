@@ -1,6 +1,6 @@
 # Man's Search for Meaning
 
-![]([https://images-na.ssl-images-amazon.com/images/I/51hvxKR0FWL._SL200_.jpg](https://m.media-amazon.com/images/I/91nkoDpJEDL.jpg))
+![]([https://images-na.ssl-images-amazon.com/images/I/51hvxKR0FWL._SL200_.jpg](https://m.media-amazon.com/images/I/91nkoDpJEDL.jpg)
 
 ### Metadata
  
