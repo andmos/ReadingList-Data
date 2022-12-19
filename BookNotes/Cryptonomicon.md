@@ -35,3 +35,9 @@
 - "I know you're expecting me to ask for morphine, but I'm not gonna," Shaftoe says. "I just want to talk." "Oh," Root says. "Should I put on my chaplain hat, then?" "I'm a fucking Protestant. I can talk to God myself whenever I goddamn well feel like it."
 
 - "How's the cable business" she mutters. Months ago, she gave up even trying to hide her scorn for the dull work of cable-laying. Pretenses are shabby things that, like papier-mâché houses, must be energetically maintained or they will dissolve.
+
+- But there is something that he could be doing. This is why laptop were invented, so that important business persons would not fritter away long flights relaxing.
+
+- Since most hackers are white males, their companies are disaster areas when it comes to diversity, and it follows that all of the diversity must be concentrated in the one or two employees who are not hackers.
+
+- Give those Finns a grim, stark, bleak moral dilemma and a bottle of schnapps and you could pretty much forget about them for forty-eight hours.
