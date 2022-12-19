@@ -1926,5 +1926,12 @@
       "John L. Parker Jr."
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "authors": [
+      "Stephen Covey"
+    ],
+    "label": "Fact"
   }
 ]
