@@ -41,3 +41,7 @@
 - Since most hackers are white males, their companies are disaster areas when it comes to diversity, and it follows that all of the diversity must be concentrated in the one or two employees who are not hackers.
 
 - Give those Finns a grim, stark, bleak moral dilemma and a bottle of schnapps and you could pretty much forget about them for forty-eight hours.
+
+- "Someone pour that man a cup of coffee!" Comstock orders. Someone does. Being in the military is amazing; you give orders, and things happen.
+
+- Waterhouse frowns at the coffee mug. "Well, it's all math," he says. "If the math works, why then you should be sure of yourself. That's the whole point of math."
