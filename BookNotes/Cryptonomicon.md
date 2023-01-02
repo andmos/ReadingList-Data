@@ -45,3 +45,5 @@
 - "Someone pour that man a cup of coffee!" Comstock orders. Someone does. Being in the military is amazing; you give orders, and things happen.
 
 - Waterhouse frowns at the coffee mug. "Well, it's all math," he says. "If the math works, why then you should be sure of yourself. That's the whole point of math."
+
+- Chester nods all the way through this, but does not rudely interrupt Randy as a younger nerd would. Your younger nerd takes ofense quickly when someone near him begins to utter declarative sentences, because he reads into it an assertion that he, the nerd, does not already know the information being imparted. But your older nerd has more self-confidence, and besides, understands that frequently people need to think out loud. And highly advanced nerds will furthermore understand that uttering declarative sentences whose contents are already known to all present is part of the social process of making conversation and therefore should not be construed as aggression under any circumstances.
