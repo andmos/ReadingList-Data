@@ -47,3 +47,9 @@
 - Waterhouse frowns at the coffee mug. "Well, it's all math," he says. "If the math works, why then you should be sure of yourself. That's the whole point of math."
 
 - Chester nods all the way through this, but does not rudely interrupt Randy as a younger nerd would. Your younger nerd takes offense quickly when someone near him begins to utter declarative sentences, because he reads into it an assertion that he, the nerd, does not already know the information being imparted. But your older nerd has more self-confidence, and besides, understands that frequently people need to think out loud. And highly advanced nerds will furthermore understand that uttering declarative sentences whose contents are already known to all present is part of the social process of making conversation and therefore should not be construed as aggression under any circumstances.
+
+- All of these countries are burning resources at a fantastic rate to get their economies stoked up, gambling that they'll be able to make the jump into hyperspace  - some kind of knowledge economy, presumably -before they run out of stuff to sell and turn into Haiti.
+
+- Crypto experts won't trust a cryptosystem until they have attacked it, and they can't attack it until they know the basic cryptanalytical techniques, and hence the demand for a document lite this modern, annotated version of the Cryptonomicon.
+
+- Intuition, like a flash of lightning, lasts only for a second. It generally comes when one is tormented by a difficult decipherment and when one reviews in his mind the fruitless experiments already tried. Suddenly the light breaks through and one finds after a few minutes what previous days of labor were unable to reveal.
