@@ -5,7 +5,7 @@ Backup repo containing my [ReadingList](https://github.com/andmos/ReadingList.gi
 
 Count author occurrences:
 ```sh
-curl -s https://app.amosti.net/reading/api/donelist | jq '.[].authors[]' | sort | uniq -c | sort -nr
+cat done.json | jq '.[].authors[]' | sort | uniq -c | sort -nr
 ```
 Get all titles by author:
 ```sh
