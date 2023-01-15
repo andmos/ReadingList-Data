@@ -1961,5 +1961,20 @@
       "Michael Malice"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+    "authors": [
+      "John Doerr"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures",
+    "authors": [
+      "Neal Ford",
+      "Mark Richards"
+    ],
+    "label": "Fact"
   }
 ]
