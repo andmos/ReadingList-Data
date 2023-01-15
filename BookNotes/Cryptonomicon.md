@@ -53,3 +53,14 @@
 - Crypto experts won't trust a cryptosystem until they have attacked it, and they can't attack it until they know the basic cryptanalytical techniques, and hence the demand for a document lite this modern, annotated version of the Cryptonomicon.
 
 - Intuition, like a flash of lightning, lasts only for a second. It generally comes when one is tormented by a difficult decipherment and when one reviews in his mind the fruitless experiments already tried. Suddenly the light breaks through and one finds after a few minutes what previous days of labor were unable to reveal.
+
+- As with anything else under UNIX (of which Finux is a variant), there are a million options that only young, lonely, or obsessed people have the time and patience to explore. Randy has been all three at various times of his life and knows a lot about these options.
+
+- "Now keep in mind that the typical Greek myth goes something like this: innocent shepherd boy is minding his own business, an overflying god spies him and gets a hard-on, swoops down and rapes him silly; while the victim is still staggering around in a daze, that god's wife or lover, in a jealous rage, turns him--the helpless, innocent victim, that is-into let's say an immortal turtle and e.g. power-staples him to a sheet of plywood with a dish of turtle food just out of his reach and leaves him out in the sun forever to be repeatedly disemboweled by army ants and stung by hornets or something. So if Arachne had dissed anyone else in the Pantheon, she would have been just a smoking hole in the ground before she knew what hit her."
+
+- Randy is mounting a known-ciphertext attack: the hardest kind. He has the ciphertext (the Arethusa intercepts) and nothing else. He doesn't even know the algorithm that was used to encrypt them. In modern cryptanalysis, this is unusual; normally the algorithms are public knowledge. That is because algorithms that have been openly discussed and  attacked within the academic community tend to be much stronger than they were ones that have been kept secret. People who rely on keeping their algorithms secret are ruined as soon as that secret gets out.
+
+- Trust goes a long way, but at some point, if you're going to sponsor a stable currency, you must put up or shut up.
+
+- That's all those guys can talk about, is mowing the lawn. But when they get back home, will they want to mow the lawn?"
+"No." "Right. They only talk like that because mowing the lawn sounds great when you're sitting in a foxhole picking lice off your nuts."
