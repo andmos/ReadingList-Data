@@ -1985,9 +1985,16 @@
     "label": "Fact"
   },
   {
-    "title": "Who Moved my Cheese?",
+    "title": "Summits of my life",
     "authors": [
-      "Dr. Spencer Johnson"
+      "Kilian Jornet"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Trango - triumf og tragedie",
+    "authors": [
+      "Stein P. Aasheim"
     ],
     "label": "Fact"
   }
