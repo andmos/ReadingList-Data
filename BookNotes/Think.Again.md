@@ -142,7 +142,7 @@
 
 - Skepticism is foundational to the scientific method, whereas denial is the a priori rejection of ideas without objective consideration.
 
-- When we're reading listening, or watching, we can learn to recognize complexity as a signal of credibility. We can favor content and sources that present many sides of an issue rather than just one or two.
+- When we're reading, listening, or watching, we can learn to recognize complexity as a signal of credibility. We can favor content and sources that present many sides of an issue rather than just one or two.
 
 - Experiments have shown that when experts express doubt, they become more persuasive.
 
