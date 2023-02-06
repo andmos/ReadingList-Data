@@ -738,13 +738,6 @@
     "label": "Fiction"
   },
   {
-    "title": "Forge Your Future with Open Source",
-    "authors": [
-      "Vicky Brasseur"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "All You Need Is Less: The Eco-friendly Guide to Guilt-Free Green Living",
     "authors": [
       "Madeleine Somerville"
@@ -833,13 +826,6 @@
     "title": "This Changes Everything",
     "authors": [
       "Naomi Klein"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Hvorfor Ytre Høyre Vinner Debatten",
-    "authors": [
-      "Eivind Trædal"
     ],
     "label": "Fact"
   },
@@ -1851,13 +1837,6 @@
     "label": "Fact"
   },
   {
-    "title": "Fjellene har meg nå",
-    "authors": [
-      "Stein P. Aasheim"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Meditations",
     "authors": [
       "Marcus Aurelius"
@@ -1985,13 +1964,6 @@
     "label": "Fact"
   },
   {
-    "title": "Summits of my life",
-    "authors": [
-      "Kilian Jornet"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Trango - triumf og tragedie",
     "authors": [
       "Stein P. Aasheim"
@@ -2002,6 +1974,13 @@
     "title": "Who Moved my Cheese?",
     "authors": [
       "Dr. Spencer Johnson"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Consciousness Explained",
+    "authors": [
+      "Daniel Dennett"
     ],
     "label": "Fact"
   }

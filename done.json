@@ -1,5 +1,19 @@
 [
   {
+    "title": "Summits of my life",
+    "authors": [
+      "Kilian Jornet"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)",
+    "authors": [
+      "Marianne Bellotti"
+    ],
+    "label": "Fact"
+  },
+  {
     "title": "Cryptonomicon",
     "authors": [
       "Neal Stephenson"
