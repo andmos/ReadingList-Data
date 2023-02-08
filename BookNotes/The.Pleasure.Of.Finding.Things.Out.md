@@ -7,7 +7,7 @@
 - Author: Richard P. Feynman
 - Full Title: The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman
 - Category: #books
- 
+
 ### Highlights
 
 - Feynman always said that he did physics not for the glory or for awards and prizes but for the fun of it, for the sheer pleasure of finding out how the world works, what makes it tick.
@@ -63,4 +63,3 @@
 - “quantum” in quantum electrodynamics recognizes a theory of the mid-twenties which states that the electrons surrounding the nucleus of every atom are limited to certain quantum states or energy levels. They can exist only at those levels and nowhere in between. These quantized energy levels are determined by the intensity of the light that falls on the atom, among other things.
 
 - I think that when we know that we actually do live in uncertainty, then we ought to admit it; it is of great value to realize that we do not know the answers to different questions. This attitude of mind–this attitude of uncertainty–is vital to the scientist, and it is this attitude of mind which the student must first acquire. It becomes a habit of thought. Once acquired, one cannot retreat from it anymore.
-
