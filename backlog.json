@@ -1460,13 +1460,6 @@
     "label": "Fact"
   },
   {
-    "title": "Talking to Stranger",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Trust Me, I'm Lying",
     "authors": [
       "Ryan Holiday"
@@ -1981,6 +1974,28 @@
     "title": "Consciousness Explained",
     "authors": [
       "Daniel Dennett"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Alone on the Wall",
+    "authors": [
+      "Alex Honnold",
+      "David Roberts"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Thinking in Systems: A Primer",
+    "authors": [
+      "Donella H. Meadows"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Chatter: The Voice in Our Head, Why It Matters, and How to Harness It",
+    "authors": [
+      "Ethan Kross"
     ],
     "label": "Fact"
   }
