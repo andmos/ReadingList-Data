@@ -1,16 +1,16 @@
 [
   {
-    "title": "Talking to Stranger",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Letters from a Stoic",
     "authors": [
       "Seneca"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Mistborn: The Lost Metal (Mistborn: The Wax and Wayne series, Book 4)",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
   }
 ]
