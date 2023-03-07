@@ -1,0 +1,13 @@
+# Mistborn: The Lost Metal (Mistborn: The Wax and Wayne series, Book 4)
+
+![](https://m.media-amazon.com/images/I/81Gp6vgl-cL._AC_UF1000,1000_QL80_.jpg)
+
+### Metadata
+
+- Author: Brandon Sanderson
+- Full Title: Mistborn: The Lost Metal (Mistborn: The Wax and Wayne series, Book 4)
+- Category: #books
+
+### Highlights
+
+- People are elastic, Wax thought. We can keep reshaping ourselves. And if we're not quite the same as before, well, that's good. It means we can grow.
