@@ -40,4 +40,6 @@
 
 - You can't think well without writing well, and you can't write well without reading well. And I mean that last "well" in both senses. You have to be good at reading, and read good things. - Paul Graham
 
-- Hardware eventually fails. Software eventually works.” – Michael Hartung
+- Hardware eventually fails. Software eventually works. – Michael Hartung
+
+- As soon as people get something, they want something new. - Fredrik Matheson
