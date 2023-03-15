@@ -11,3 +11,7 @@
 ### Highlights
 
 - People are elastic, Wax thought. We can keep reshaping ourselves. And if we're not quite the same as before, well, that's good. It means we can grow.
+
+- Elevators were like a carnival ride designed by an overprotective parent who didn't want you getting scared or actually having any fun.
+
+- Good intentions had to be coupled with a realistic look at the effects of your actions. It was entirely too easy to make things worse while trying to make them better.
