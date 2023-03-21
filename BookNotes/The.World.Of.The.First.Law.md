@@ -9,7 +9,7 @@
 - Category: #books
 
 ### Highlights
- 
+
 - Some things have to be done. It's better to do them, than to live in the fear of them.
 
 - Once you've got a task to do, it's better to do it than live with the fear of it.
