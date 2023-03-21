@@ -17,3 +17,5 @@
 - Good intentions had to be coupled with a realistic look at the effects of your actions. It was entirely too easy to make things worse while trying to make them better.
 
 - "Rusts, I feel old. I'm not supposed to feel old. I'm the spry one!" Wax settled down next to him on a dry part of the concrete. "You're thirty-nine, Wayne. It catches up to you." "You infected me, you did" Wayne grumbled. "I never felt old when I was workin' with Marasi!" "I infected you," Wax said, "with being old?" "Damn right." "That's ludicrous even for you." "No it ain't. You done started to think yourself old, and it drilled into my head too." Wayne tapped at his skull. "Ideas is infectious, Wax. More than diseases."
+
+- "I guess, Marasi continued, "it's hard to know what you want. We never have all the information. We merely have to do what we can with what we have."
