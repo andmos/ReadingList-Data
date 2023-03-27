@@ -322,7 +322,7 @@
 
 - The idea that something is more likely to go wrong only because there’s been a long gap when nothing has gone wrong is a version of the gambler’s fallacy. It’s not the lack of failure that makes a system more likely to fail, it’s the inattention in the maintenance schedule or the failure to test appropriately or other cut corners. Whether the assumption that a too reliable system is in danger is sensible depends on what evidence people are calling on to determine the odds of failure.
 
-- The gambler’s fallacy is one of those logical fallacies that is so pervasive, it shows up in all kinds of weird ways. In 1796, for example, a French philosopher documented how expecting fathers felt anxiety and despair when other local women gave birth to sons because they were convinced it lowered their likelihood of having a son within the same period.11
+- The gambler’s fallacy is one of those logical fallacies that is so pervasive, it shows up in all kinds of weird ways. In 1796, for example, a French philosopher documented how expecting fathers felt anxiety and despair when other local women gave birth to sons because they were convinced it lowered their likelihood of having a son within the same period.
 
 - what we do know is that recovering fast and being transparent about the nature of the outage and the resolution often improves relationships with stakeholders. Factoring in the boost to psychological safety and productivity that just culture creates, technical organizations shouldn’t shy away from breaking things on purpose. Under the right conditions, the cost of user trust is minimal, and the benefits might be substantial.
 
