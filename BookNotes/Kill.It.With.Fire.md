@@ -280,7 +280,7 @@
 
 - The more problems we have making changes, the more we overestimate future failures.
 
-- Our perception of risk cues up another cognitive bias that makes rewrites more appealing than incremental improvements on a working system: whether we are trying to ensure success or avoid failure. When success seems certain, we gravitate toward more conservative, risk-averse solutions. When failure seems more likely, we switch mentalities completely. We go bold, take more risks.11
+- Our perception of risk cues up another cognitive bias that makes rewrites more appealing than incremental improvements on a working system: whether we are trying to ensure success or avoid failure. When success seems certain, we gravitate toward more conservative, risk-averse solutions. When failure seems more likely, we switch mentalities completely. We go bold, take more risks.
 
 - It’s the minor adjustments to systems that have not been actively developed in a while that create the impression that failure is inevitable and push otherwise rational engineers toward doing rewrites when rewrites are not necessary.
 
