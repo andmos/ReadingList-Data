@@ -1,4 +1,4 @@
-#r "nuget: HtmlAgilityPack, 1.11.42"
+#r "nuget: HtmlAgilityPack, 1.11.46"
 
 using HtmlAgilityPack;
 
