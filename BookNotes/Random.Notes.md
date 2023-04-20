@@ -1,15 +1,15 @@
 # Random Quotes
-
+ 
 
 ### Metadata
-
+ 
 
 - Author: Different
 - Full Title: Random quotes
 - Category: #quotes
 
 ### Highlights
-
+ 
 - The study of history is the study of change, not just the past - Yuval Noah Harari
 
 - The first draft of anything is garbage. - Ernest Hemingway
@@ -43,3 +43,6 @@
 - Hardware eventually fails. Software eventually works. – Michael Hartung
 
 - As soon as people get something, they want something new. - Fredrik Matheson
+
+- We’re programmers. Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds. - Joel Spolsky
+
