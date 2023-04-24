@@ -1893,13 +1893,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Impossible Climb: Alex Honnold, El Capitan, and the Climbing Life",
-    "authors": [
-      "Mark Synnott"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "The World Without Us",
     "authors": [
       "Alan Weisman"
@@ -2088,5 +2081,12 @@
       "Carl Sagan"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Yumi and the Nightmare Painter",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
   }
 ]
