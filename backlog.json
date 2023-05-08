@@ -1695,6 +1695,20 @@
     "label": "Fiction"
   },
   {
+    "title": "The Heroes",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Red Country",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "Lenin's Tomb: The Last Days Of The Soviet Empire",
     "authors": [
       "David Remnick"
@@ -2088,5 +2102,12 @@
       "Brandon Sanderson"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "The Push: A Climber's Journey of Endurance, Risk, and Going Beyond Limits",
+    "authors": [
+      "Tommy Caldwell"
+    ],
+    "label": "Fact"
   }
 ]
