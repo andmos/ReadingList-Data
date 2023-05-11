@@ -46,3 +46,6 @@
 
 - We’re programmers. Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds. - Joel Spolsky
 
+- Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out. - Shane Parrish
+
+- When you lose the ability to write, you also lose some of your ability to think. - Paul Graham
