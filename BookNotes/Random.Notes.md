@@ -49,3 +49,5 @@
 - Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out. - Shane Parrish
 
 - When you lose the ability to write, you also lose some of your ability to think. - Paul Graham
+
+- You can't hate the people who reject you, nor can you bless the people who love you. Everyone is acting out of his or her own self-interest.
