@@ -51,3 +51,5 @@
 - When you lose the ability to write, you also lose some of your ability to think. - Paul Graham
 
 - You can't hate the people who reject you, nor can you bless the people who love you. Everyone is acting out of his or her own self-interest.
+
+- The term "keeping up with the Jonses" was introduced in 1976 to refer to the idea that we are never satisfied anymore.
