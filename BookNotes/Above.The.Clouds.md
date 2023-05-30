@@ -168,9 +168,9 @@
 
 - In the end, I know that to achieve intense enjoyment, I have to go to the limit of my comfort zone, then stick to the range of things I know how to do, stretching the limit as far as possible.
 
-- UP THERE ON THE MOUNTAIN IS WHERE I FIND RELIEF FROM PAIN. Death, for me, would be to not go at all.
+- Up there on the mountain is where i find relief from pain. Death, for me, would be to not go at all.
 
-- EVERYTHING THAT HAPPENED THAT WEEK REMINDED ME OF THE IMPORTANCE of failure, and of failures. We are nothing more than insignificant, fragile people, and this is something we should always keep in mind. Especially when we’ve grown used to success and we get overconfident. We think we’re indestructible and that we can win everything. If we compete, we can be arrogant, but on the mountain, this can end in grief for somebody else.
+- Everything that happened that week reminded me of the importance of failure, and of failures. We are nothing more than insignificant, fragile people, and this is something we should always keep in mind. Especially when we’ve grown used to success and we get overconfident. We think we’re indestructible and that we can win everything. If we compete, we can be arrogant, but on the mountain, this can end in grief for somebody else.
 
 - In today’s media, things get trivialized, and we end up thinking that only success has value, whereas failure is a sign of weakness. This leads us to choose between lowering the level of our activities to increase our chances of victory, or accepting failure and criticism, and being patient and stubborn enough to keep trying year after year, until maybe one day we achieve our dream. It’s clear that failure doesn’t sell. Newspapers, radio, TV, and digital platforms won’t talk about mere attempts. People only want to hear about success, because heroes are successful; despite the difficulties, through hard work and persistence, they achieve whatever they set their minds to. No one admires a failure.
 
