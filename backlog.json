@@ -1142,13 +1142,6 @@
     "label": "Fact"
   },
   {
-    "title": "Into Thin Air",
-    "authors": [
-      "Jon Krakauer"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Thrawn: Alliances (Star Wars: Thrawn, Book 2)",
     "authors": [
       "Timothy Zahn"
@@ -1359,13 +1352,6 @@
       "Nassim Nicholas Taleb"
     ],
     "label": "Fact"
-  },
-  {
-    "title": "The Mandalorian Original Novel (Star Wars)",
-    "authors": [
-      "Adam Christopher"
-    ],
-    "label": "Fiction"
   },
   {
     "title": "Galileo And the Science Deniers",
@@ -1688,21 +1674,21 @@
     "label": "Fiction"
   },
   {
-    "title": "Best Served Cold",
+    "title": "Best Served Cold: The World of the First Law, Book 1",
     "authors": [
       "Joe Abercrombie"
     ],
     "label": "Fiction"
   },
   {
-    "title": "The Heroes",
+    "title": "The Heroes: The World of the First Law, Book 2",
     "authors": [
       "Joe Abercrombie"
     ],
     "label": "Fiction"
   },
   {
-    "title": "Red Country",
+    "title": "Red Country: The World of the First Law, Book 3",
     "authors": [
       "Joe Abercrombie"
     ],
@@ -1724,6 +1710,13 @@
   },
   {
     "title": "The Name of the Wind: The Kingkiller Chronicle: Day One",
+    "authors": [
+      "Patrick Rothfuss"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Wise Man's Fear: The Kingkiller Chronicle: Day Two",
     "authors": [
       "Patrick Rothfuss"
     ],
@@ -2107,6 +2100,20 @@
     "title": "Maskiner Som Tenker - Algoritmenes hemmeligheter og veien til kunstig intelligens",
     "authors": [
       "Inga Strümke"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "The Third Pole: Mystery, Obsession, and Death on Mount Everest",
+    "authors": [
+      "Mark Synnott"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Into the Silence: The Great War, Mallory, and the Conquest of Everest",
+    "authors": [
+      "Wade Davis"
     ],
     "label": "Fact"
   }
