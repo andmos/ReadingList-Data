@@ -43,7 +43,6 @@
 - Again, the problem is not thoughts themselves but the state of thinking without being fully aware that we are thinking.
 
 - Even for extraordinarily lucky people, life is difficult. And when we look at what makes it so, we see that we are all prisoners of our thoughts.
-Enlightenment
 
 - It is quite possible to lose one’s sense of being a separate self and to experience a kind of boundless, open awareness—to feel, in other words, at one with the cosmos.
 
