@@ -188,7 +188,7 @@
 
 - That’s coupling. If suicide is coupled, then it isn’t simply the act of depressed people. It’s the act of depressed people at a particular moment of extreme vulnerability and in combination with a particular, readily available lethal means.
 
-- consider the inexplicable saga of the Golden Gate Bridge in San Francisco. Since it opened in 1937, it has been the site of more than 1,500 suicides. No other place in the world has seen as many people take their lives in that period. 4 What does coupling theory tell us about the Golden Gate Bridge? That it would make a big difference if a barrier prevented people from jumping, or a net was installed to catch them before they fell. The people prevented from killing themselves on the bridge wouldn’t go on to jump off something else. Their decision to commit suicide is coupled to that particular bridge.
+- consider the inexplicable saga of the Golden Gate Bridge in San Francisco. Since it opened in 1937, it has been the site of more than 1,500 suicides. No other place in the world has seen as many people take their lives in that period. What does coupling theory tell us about the Golden Gate Bridge? That it would make a big difference if a barrier prevented people from jumping, or a net was installed to catch them before they fell. The people prevented from killing themselves on the bridge wouldn’t go on to jump off something else. Their decision to commit suicide is coupled to that particular bridge.
 
 - it is really hard for us to accept the idea that a behavior can be so closely coupled to a place.
 
