@@ -1,5 +1,12 @@
 [
   {
+    "title": "Best Served Cold: The World of the First Law, Book 1",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "Letters from a Stoic",
     "authors": [
       "Seneca"
@@ -12,13 +19,6 @@
       "Steve House",
       "Scott Johnston",
       "Kilian Jornet"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Kampklar",
-    "authors": [
-      "Bjørn Mannsverk"
     ],
     "label": "Fact"
   }
