@@ -2110,5 +2110,19 @@
       "Amanda Padoan"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "authors": [
+      "Hunter S. Thompson"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "​Feynman's Rainbow: A Search for Beauty in Physics and in Life",
+    "authors": [
+      "Leonard Mlodinow"
+    ],
+    "label": "Fact"
   }
 ]
