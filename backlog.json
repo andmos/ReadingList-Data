@@ -1929,13 +1929,6 @@
     "label": "Fact"
   },
   {
-    "title": "Trango - triumf og tragedie",
-    "authors": [
-      "Stein P. Aasheim"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Who Moved my Cheese?",
     "authors": [
       "Dr. Spencer Johnson"
@@ -2137,6 +2130,13 @@
     "authors": [
       "Gunnar Stavrum",
       "Odd Harald Hauge"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "A Thousand Brains: A New Theory of Intelligence",
+    "authors": [
+      "Jeff Hawkins"
     ],
     "label": "Fact"
   }
