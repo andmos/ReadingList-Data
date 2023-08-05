@@ -53,3 +53,5 @@
 - You can't hate the people who reject you, nor can you bless the people who love you. Everyone is acting out of his or her own self-interest.
 
 - The term "keeping up with the Jonses" was introduced in 1976 to refer to the idea that we are never satisfied anymore.
+
+-  Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance. ― Kurt Vonnegut
