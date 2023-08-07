@@ -2140,5 +2140,26 @@
       "Eva Joly"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Beyond the Mountain",
+    "authors": [
+      "Steve House"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Eiger Dreams: Ventures Among Men and Mountains",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Elastic Leadership: Growing self-organizing teams",
+    "authors": [
+      "Roy Osherov"
+    ],
+    "label": "Fact"
   }
 ]
