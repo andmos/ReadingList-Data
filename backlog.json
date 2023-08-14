@@ -285,13 +285,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Cuckoo's Calling (Cormoran Strike Book 1)",
-    "authors": [
-      "Robert Galbraith"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "En kamp til",
     "authors": [
       "Claus Lundekvam"
@@ -1695,6 +1688,13 @@
     "label": "Fact"
   },
   {
+    "title": "Jonathan Livingston seagull",
+    "authors": [
+      "Richard Bach"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "The Name of the Wind: The Kingkiller Chronicle: Day One",
     "authors": [
       "Patrick Rothfuss"
@@ -1918,6 +1918,13 @@
     "title": "The Creative Act: A Way of Being",
     "authors": [
       "Rick Rubin"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Who Moved my Cheese?",
+    "authors": [
+      "Dr. Spencer Johnson"
     ],
     "label": "Fact"
   },
