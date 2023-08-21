@@ -1929,13 +1929,6 @@
     "label": "Fact"
   },
   {
-    "title": "Who Moved my Cheese?",
-    "authors": [
-      "Dr. Spencer Johnson"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Consciousness Explained",
     "authors": [
       "Daniel Dennett"
@@ -2166,6 +2159,27 @@
     "title": "Elastic Leadership: Growing self-organizing teams",
     "authors": [
       "Roy Osherov"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Spinoza: Life and Legacy",
+    "authors": [
+      "Jonathan I. Israel"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Adult Children of Emotionally Immature Parents - How to Heal from Distant, Rejecting, or Self-Involved Parents",
+    "authors": [
+      "Lindsay C. Gibson"
     ],
     "label": "Fact"
   }
