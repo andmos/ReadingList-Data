@@ -203,3 +203,181 @@
 - Some men slowing, wanting to get back, others moving faster, wanting to press on. Fear and anger, two sides to the same coin.
 
 - But in any case, a man can forgive all manner of faults in beautiful women that in ugly men he finds entirely beyond sufferance. And if there’s one thing I absolutely cannot abide, it’s disloyalty. You have to stick at something in your life.”
+
+- ‘Unhappy the land that is in need of heroes’ Bertolt Brecht
+
+- Strange thing, that–the fewer years you have to lose the more you fear the losing of ’em.
+
+- ‘Imagine yourself a master mason, Lord Marshal, working upon one turret of a grand palace. A craftsman whose dedication, skill and attention to detail are disputed by no one.’ ‘Mason?’ Mitterick looked baffled. ‘Then imagine the Closed Council as the architects. Our responsibility is not the fitting of one stone to another, it is the design of the building overall. The politics, rather than the tactics. An army is an instrument of government. It must be used in such a way that it furthers the interests of government. Otherwise what use is it? Only an extremely costly machine for … minting medals.’
+
+- ‘The world is fluid. We must be fluid also.
+
+- Naturally, as soldiers, you all are prone to be sentimental about warfare. But fighting is only any use when it’s cheaper than the alternatives.’
+
+- Hard to believe there was any war at all. But then in Craw’s experience, and he’d plenty, wars were made from ninety-nine parts boredom, usually in the cold and damp, hungry and ill, often hauling a great weight of metal uphill, to one part arse-opening terror.
+
+- Craw worried too much, all right. Shame is, a man can’t just choose not to worry.
+
+- ‘You have before you a perfect demonstration of the workings of the army–the chain of command, trooper, each man shitting on the head of the man below. The much-loved leader of our regiment, Colonel Vallimir, is just getting shat on by General Jalenhorm. Colonel Vallimir will shit on his own officers, and it won’t take long to roll downhill, believe me. Within a minute or two, First Sergeant Forest will arrive to position his bared buttocks above my undeserving head. Guess what that means for you lot?’
+
+- Savour the little moments, son, that’s my advice. They’re what life is. All the things that happen while you’re waiting for something else.
+
+- But he’d long ago learned that most men love nothing better than to be listened to. Especially powerful men.
+
+- When the best you can get from your wife’s father is that he won’t help to kill you, it doesn’t take a clever man to see you’re in shit to your chin.
+
+- When you’re planning what to do, always think of doing nothing first, see where that gets you.
+
+- People like simple stories.’ Craw frowned at the pink marks down the edges of his nails. ‘But people ain’t simple.’
+
+- There’s nothing better for a dose of terror than standing by someone even more terrified than yourself.
+
+- Just keep in mind what Rudd Threetrees once told me. Let’s us get them killed, and not the other way round.’ Wonderful grinned. ‘Best damn advice about war I ever heard.’
+
+- ‘A man should always be armed. If only for the feel of it.’ ‘An unarmed man is like an unroofed house,’ muttered Yon. ‘They’ll both end up leaking,’ Brack finished for him.
+
+- More quiet. War’s ninety-nine parts boredom and, now and then, one part arse-opening terror.
+
+- A good leader can’t dwell on the choices he’s made, Threetrees used to tell him, and a good leader can’t help dwelling on ’em.
+
+- What is love anyway, but finding someone who suits you? Someone who makes up for your shortcomings? Someone you can work with. Work on.
+
+- Aliz blinked. ‘You’re so knowledgeable …’ Finree very much wanted to say, ‘yes, I am’ but settled for a careless shrug. There was no magic to it. She simply listened, observed, and made sure she never spoke until she knew what she was speaking of. Knowledge is the root of power, after all.
+
+- It is easy to forget how much you have, when your eyes are always fixed on what you have not.
+
+- You can say things at a grave would get you laughed out of a tavern, and be treated like you’re brimming over with wisdom.
+
+- Life only rolls one way and it ain’t always the way we’d like. There it is.’
+
+- I think you know this, and have no confidence, which makes you behave, paradoxically, as if you have far too much.
+
+- ‘Look. You think how stupid people are most of the time. Old men drunk. Women at a village fair. Boys throwing stones at birds. Life. The foolishness and the vanity, the selfishness and the waste. The pettiness, the silliness. You think in a war it must be different. Must be better. With death around the corner, men united against hardship, the cunning of the enemy, people must think harder, faster, be … better. Be heroic.’ He started to heave his packages down from his horse’s saddle. ‘Only it’s just the same. In fact, do you know, because of all that pressure, and worry, and fear, it’s worse. There aren’t many men who think clearest when the stakes are highest. So people are even stupider in a war than the rest of the time. Thinking about how they’ll dodge the blame, or grab the glory, or save their skins, rather than about what will actually work. There’s no job that forgives stupidity more than soldiering. No job that encourages it more.’
+
+- ‘Any trick looks thin to them who know it’s coming.’
+
+- The battlefield was no place for independent thought, Lasmark supposed, and perhaps his superiors simply knew better than he did. Alas, experience did not support that conclusion.
+
+- There is a gulf of difference, after all, between expecting the worst and seeing it happen.
+
+- Dignity ain’t much use to the living, it’s none to the dead.
+
+- When a man dies in peacetime it’s all tears and processions, friends and neighbours offering each other comfort. A man dies in war and he’s lucky to get enough mud on top to stop him stinking.
+
+- If victory makes men brave, defeat renders them cowards.
+
+- ‘Ah! Tea! Nothing seems quite so terrible once there is a cup of tea in your hand, eh? Would anyone else care for some?’
+
+- ‘Nothing can be beneath the notice of a careful man,’ said the Magus. ‘Knowledge is the root of power, after all.
+
+- ‘If a mason builds a wall upon a slope and it collapses, he can hardly complain that it would have stood a thousand years if only he had been given level ground to work with.’
+
+- Take victory quiet and careful, Rudd Threetrees used to say, ’cause you might soon be called on to take defeat the same way.
+
+- But what kind of man steps away from a friend just ’cause he isn’t popular? Even if he is in danger of becoming a fireball.
+
+- ‘War’s a way of getting things,’ he said. ‘If it gets you nothing, what’s the point?
+
+- It’s amazing how well the most pathetic flattery can work. On enormously vain people especially.
+
+- Pits full of shit, and pits full of corpses. That’s all war left behind, as far as he could see.
+
+- Nothing else but silence. Calder didn’t like a silent man. A boastful man like Golden, an angry man like Tenways, even a savage man like Black Dow, they give you something to work with. A quiet man like Ironhead gives nothing. Especially in the dark, where Calder couldn’t even guess at his thoughts.
+
+- ‘You can’t say that civilisation don’t advance, however, for in every war they kill you in a new way’ Will Rogers
+
+- ‘This is the thing about war. Forces men to do new things with what they have. Forces them to think new ways. No war, no progress.’ He leaned back on one elbow. ‘War, d’you see, is like the plough that keeps the earth rich, like the fire that clears the fields, like—’ ‘The shit that makes the flowers grow?’ asked Wonderful. ‘Exactly!’
+
+- ‘What should we do?’ asked Yolk. ‘Nothing whatsoever, trooper. Unless specifically and precisely instructed otherwise, a good soldier always does nothing.’
+
+- ‘It’s not easy, is it? Being a great man’s son. You’d have thought it would come with all kinds of advantages–with borrowed admiration, and respect. But it’s only as easy as it is for the seeds of a great tree, trying to grow in its choking shadow. Not many make it to the sunlight for themselves.’
+
+- Gorst watched the whirling clouds of gnats that haunted the bank, and the corpses that floated past beneath them. The bravery. Turning with the current. The honour. Face up and face down. The dedication of the soldiers.
+
+- Whoever said war never changes anything, well … they just haven’t fought enough wars, have they? Glad to see this rain’s clearing up, though. It’s been playing hell with my experiment.’
+
+- ‘Once we can kill people at any time of day, in any season, in any weather, why, then we’ll be civilised, eh?’
+
+- People often supposed that a lord marshal wielded supreme power on the battlefield, even beyond an emperor in his throne room. They did not appreciate the infinite constraints on his authority. The weather, in particular, was prone to ignore orders.
+
+- The higher you climbed up the chain of command, the more links between you and the naked steel, the more imperfect the communication became. The more men’s cowardice, rashness, incompetence or, worst of all, good intentions might twist your purposes. The more chance could play a hand, and chance rarely played well.
+
+- The general who waited to make a decision until he knew everything he needed to would never make one, and if he did it would be far too late.
+
+- ‘Oftentimes,’ murmured Whirrun, ‘a man’s better served embracing his pain than trying to escape it. Things are smaller when you face ’em.’
+
+- Anyway, it seems to me a man can do an awful lot of evil in no time at all. Swing of a blade is all it takes. Doing good needs time. And all manner of complicated efforts. Most men don’t have the patience for it. ’Specially not these days.’
+
+- ‘Terrible strain on a man, hearing his self sung about. Enough to make anyone a shit.’ ‘Even if they weren’t one in the first place.’ ‘Which isn’t likely. I guess hearing songs about warriors makes men feel brave their own selves, but a great warrior has to be at least half way mad.’
+
+- ‘Strange bastard, that,’ said Dow as he watched Whirrun go. Craw grunted as he unfolded his legs and slowly stood, shaking his aching joints out. ‘He plays up to it. You know how it is, having a reputation.’ ‘Fame’s a prison, no doubt.
+
+- The Great Leveller’s waiting for all of us, ain’t he? There’ll always be someone stronger, quicker, luckier’n you, and the more fighting you do the quicker he’s going to find you. That’s what life is for men like us.
+
+- ‘A man’s worst enemies are his own ambitions,’
+
+- ‘But that’s being Chief, ain’t it?’ snarled Dow in his face. ‘A dancing fucking procession o’ things you don’t want to do! If I’d known what it meant when I took the chain I’d have tossed it in the river along with the Bloody-Nine. Threetrees warned me, but I didn’t listen. There’s no curse like getting what you want.’
+
+- It’s a damn fool risks his life for what he can get just by the asking.
+
+- Threetrees would’ve been proud. Which was a great comfort, because when he got shot in the neck he could use a dead man’s pride to pull the arrow out, couldn’t he?
+
+- ‘You ever thought about a patch?’ asked Craw, as he took his sword and slid it through his belt. ‘Tried one for a bit.’ Shivers waved a finger at the mass of scar around his eye. ‘Itched like a bastard. I thought, why wear it just to make other fuckers more comfortable? If I can live with having this face, they can live with looking at it. That or they can get fucked.’
+
+- ‘Tell me you lot weren’t working up to a fight without me. You know how much I love killing folk. I shouldn’t, but a man has to stick to what he’s good at.
+
+- His father used to tell him it’s easy to see the enemy one of two ways. As some implacable, terrifying, unstoppable force that can only be feared and never understood. Or some block of wood that doesn’t think, doesn’t move, a dumb target to shoot your plans at. But the enemy is neither one. Imagine he’s you, that he’s no more and no less of a fool, or a coward, or a hero than you are. If you can imagine that, you won’t go too far wrong. The enemy is just a set of men. That’s the realisation that makes war easy. And the one that makes it hard.
+
+- ‘Patience is as fearsome a weapon as rage. More so, in fact, ’cause fewer men have it.’
+
+- But maybe that’s how the world works. Some men are made for doing violence. Some are meant for planning it. Then there are a special few whose talent is for taking the credit.
+
+- ‘Fuck,’ he whispered. ‘Aye,’ said Shivers. Craw almost took a tumble on the wet grass. ’Til he remembered there was an awful lot a man could be saying fuck about. That’s the beauty of the word. It can mean just about anything, depending on how things stand. Horror, shock, pain, fear, worry. None were out of place.
+
+- ‘The definition of all right changes with the passing winters, I find. I’m about all right by the standards of the last few days. Twenty years ago I’d have considered this close to death.’
+
+- ‘You have not thought of everything, then?’ ‘Only the truly ignorant believe they have thought of everything.
+
+- ‘The truth is like salt. Men want to taste a little, but too much makes everyone sick.’
+
+- ‘I fucking love war!’ squeaked Whirrun. ‘I fucking love it, though, don’t you?’ Beck didn’t say anything. ‘The smell of it. The feel of it.’ He rubbed one hand up and down the stained sheath of his sword, making a faint swishing sound. ‘War is honest. There’s no lying to it. You don’t have to say sorry here. Don’t have to hide. You cannot. If you die? So what? You die among friends. Among worthy foes. You die looking the Great Leveller in the eye. If you live? Well, lad, that’s living, isn’t it? A man isn’t truly alive until he’s facing death.’
+
+- ‘If you can rely on one thing in a battle, it’s that men rarely do what’s sensible.’
+
+- ‘There’s no shame in being scared. Bravery is being scared, and doing it anyway.’
+
+- Being in charge can seem like a thing iron-forged, but in the end it’s just an idea everyone agrees to.
+
+- Tears’ll wash no one clean, as Red Hat’s old mum used to tell him.
+
+- ‘You’d think it’d be easy being Chief.’ He shifted his shoulders like the chain sat too heavy on ’em. ‘But it’s like dragging a fucking mountain through the muck. Threetrees told me that. Told me every leader stands alone.’
+
+- That was the trouble with pride, and courage, and all those clench-jawed virtues bards love to harp on. The more you have, the more likely you are to end up bottom in a pile of dead men.
+
+- ‘Every sword’s a weight to carry. Men don’t see that when they pick ’em up. But they get heavier with time.’
+
+- Life is not fair. There is no pattern. People die at random. Obvious, perhaps. Something that everyone knows. Something that everyone knows, but no one truly believes. They think when it comes to them there will be a lesson, a meaning, a story worth telling. That death will come to them as a dread scholar, a fell knight, a terrible emperor. He poked at the boy’s corpse with a toe, rolled it onto its side, then let it flop back. Death is a bored clerk, with too many orders to fill. There is no reckoning. No profound moment. It creeps up on us from behind, and snatches us away while we shit.
+
+- That you’d be forgotten the way a pond forgets a stone tossed in. A few ripples and you’re gone. It’s in the nature of men to forget.
+
+- All you can do is take each day as it comes. Try and do the best you can with what you’re given. You won’t always do the right thing, but you can try. And you can try to do the right thing next time.
+
+- ‘Best to keep your expectations low. Maybe you’ll be pleasantly surprised.’
+
+- ‘Got any advice for me?’ ‘Advice?’ ‘Aye, you’re some fighter.’ ‘If you get a chance, don’t hesitate.’ Shivers frowned down at the ruby on his little finger. ‘Mercy and cowardice are the same.’ ‘My father always used to say that nothing shows greater power than mercy.’ ‘Not in the circle.’
+
+- ‘Who cares a shit what dead men might have said?’ The Dogman stared evenly back. ‘Things change.’
+
+- ‘A good liar tells as much truth as he can. That way you never know what you’re getting.’
+
+- ‘Everyone has their reasons, my father used to tell me. It’s just a question of knowing what they are. Then the world’s simple.’
+
+- I’d also point out loyalty’s a dangerous foundation. Tends to wash away in a storm. Self-interest stands in any weather.’
+
+- ‘Good planning does not prevent accidents,’ said Bayaz, ‘it allows for them. It makes sure every accident is a happy one.
+
+- Remember, because forgetfulness is the curse of power.
+
+- ‘War is full of opportunities, after all, however terrible it may be.’
+
+- If it was someone come to kill him it didn’t seem likely they’d have given him a warning by calling his name. Not unless they were idiots. Idiots can be just as vengeful as anyone else, though, if not more so.
