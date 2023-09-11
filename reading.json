@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Heroes: The World of the First Law, Book 2",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Letters from a Stoic",
     "authors": [
       "Seneca"
@@ -19,6 +12,13 @@
       "Steve House",
       "Scott Johnston",
       "Kilian Jornet"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Invisible Women: Data Bias in a World Designed for Men",
+    "authors": [
+      "Caroline Criado Perez"
     ],
     "label": "Fact"
   }
