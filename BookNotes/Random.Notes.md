@@ -55,3 +55,5 @@
 - The term "keeping up with the Jonses" was introduced in 1976 to refer to the idea that we are never satisfied anymore.
 
 -  Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance. ― Kurt Vonnegut
+
+- Anybody who doesn’t change their mind a lot is dramatically underestimating the complexity of the world we live in. - Jeff Bezos
