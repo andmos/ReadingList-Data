@@ -1,15 +1,15 @@
 # Random Quotes
- 
+  
 
 ### Metadata
- 
+  
 
 - Author: Different
 - Full Title: Random quotes
 - Category: #quotes
 
 ### Highlights
- 
+  
 - The study of history is the study of change, not just the past - Yuval Noah Harari
 
 - The first draft of anything is garbage. - Ernest Hemingway
@@ -59,3 +59,5 @@
 - Anybody who doesn’t change their mind a lot is dramatically underestimating the complexity of the world we live in. - Jeff Bezos
 
 - A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system. - John Gall
+
+- Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson, Structure and Interpretation of Computer Programs
