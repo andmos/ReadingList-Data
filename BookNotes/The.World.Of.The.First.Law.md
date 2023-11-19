@@ -381,3 +381,96 @@
 - ‘War is full of opportunities, after all, however terrible it may be.’
 
 - If it was someone come to kill him it didn’t seem likely they’d have given him a warning by calling his name. Not unless they were idiots. Idiots can be just as vengeful as anyone else, though, if not more so.
+
+- ‘Gold.’ Wist made the word sound like a mystery there was no solving. ‘Makes men mad.’
+
+- Ain’t like rich folk got no trouble.
+
+- Never make a threat you aren’t at least halfway sure you’ll carry through on.
+
+- Live long enough… you see everything ruined.’
+
+- ‘Better off digging than getting buried,’ said Lamb.
+
+- ‘Ducklings got more fight in ’em than this crowd,’ said Shivers. ‘They’re mercenaries. Fighting is the last thing on their minds.
+
+- In the lunatic asylum, he supposed, the one sane man looks mad.
+
+- ‘You like to drive a bargain, don’t you?’ ‘My preferred approach to bad deals is to be where they ain’t.’
+
+- I never claimed to be a righteous man.’ ‘No righteous man does.’
+
+- ‘A man of principle must make hard choices and suffer the consequences.’
+
+- It might have been a laughable procession without the threat of death. Temple had always found the threat of death to be a sure antidote to comedy.
+
+- ‘This hardly seems a moment for jokes!’ Cosca chuckled. ‘My old commander Sazine once told me you should laugh every moment you live, for you’ll find it decidedly difficult afterward.
+
+- Life rarely turns out the way we expect. We must bend with the circumstances.’
+
+- ‘I think you’re best off treating folk the way you’d want to be treated and leaving their choices to them. We’re all of us trouble o’ one kind or another.
+
+- A sad fact, but the hungrier a man is the less he tends to care about the hunger of others.
+
+- ‘Do you expect trouble?’ asked Majud. ‘Always. That way you’ll only be pleasantly surprised.’
+
+- The best grass is always just past the horizon. The sweetest water’s in the next river. The bluest sky over some other mountain.’ He gave a long sigh. Afore you know it, your joints snap of a morning and you can’t sleep two hours together without needing to piss and of a sudden you realise your best country’s all behind you, never even appreciated as you passed it by, eyes fixed ahead.’
+
+- I’ve always been a deeply disappointing man.’ ‘I know that feeling.’ Lamb scratched slowly at his shortened beard. ‘But there’s always tomorrow. Doing better next time. That’s what life is.’
+
+- ‘I was running away. One way and another I’ve made quite a habit of it.’ ‘Done a fair bit myself. I find the trouble is, though, wherever you run to… there y’are.’
+
+- ‘Good luck’s never a thing to count on,’
+
+- ‘Never own a thing you couldn’t swim a river with, old Corley Ball used to tell me.’ ‘What happened to him?’ asked Shy. ‘Drowned, as I understand.’ ‘Men rarely live by their own lessons,’ murmured Lamb,
+
+- ‘There is no running from the sky!’ he was shrieking, finger outstretched. ‘There is no hiding from God! God is always watching!’ It seemed to Temple he was that most dangerous kind of priest–one who really believes.
+
+- Everyone’s got a better way of doing things ’til they’re called on to actually tell you what it might be.
+
+- ‘But the truth is, it takes no sorcery to make a man do bad things. Bad company. Bad choices. Bad luck. A no more than average level of cowardice.’
+
+- ‘We are all dead men, brother, in due course. It is how we get there that counts.
+
+- ‘Everyone’s got plans,’ said Shy, ‘and everyone thinks theirs are good. It’s when one set of good plans gets tangled with another things tend to slide downhill.’
+
+- No one likes to stand that close to failure, do they? Worried it might rub off.
+
+- ‘Never trust someone who don’t use their proper name, I was always told.’
+
+- The bottle’s a shifty banker–it might lend you courage but it’s apt to call the debt in sudden.
+
+- My old teacher used to say you know the righteous by what they give to those who can’t give back.
+
+- my father always said patience is the king of virtues. A man has to be realistic. Has to be.’
+
+- all his life he’d kept his word. It could give you some tough moments, your word. Could force you into places you didn’t want to be, could serve you up puzzles where the right path weren’t easy to pick. But it wasn’t meant to be easy, it was meant to be right. There were too many men always did the easy thing, regardless.
+
+- Little men and big, brave men and cowards, powerful men and meagre, they all hang very much the same.
+
+- ‘There are many humorous things in the world, among them the white man’s notion that he is less savage than the other savages.’ Mark Twain
+
+- Glory is like bread, it stales with time!
+
+- In violent times folk like to kneel to violent men. In peaceful times they remember they’re happier standing.’
+
+- Folk she’d known to be big on religion had tended to use it as an excuse for doing wrong rather’n a reason not to.
+
+- ‘The Maker taught us it is not fear, but how we face it that counts.
+
+- Evil turned out not to be a grand thing. Not sneering Emperors with world-conquering designs. Not cackling demons plotting in the darkness beyond the world. It was small men with their small acts and their small reasons. It was selfishness and carelessness and waste. It was bad luck, incompetence and stupidity. It was violence divorced from conscience or consequence. It was high ideals, even, and low methods.
+
+- I enjoy a fantastic dream just as much as the next man…’ and he fished up a single golden coin and held it to the light. ‘That one mark is worth a great deal more than a thousand promises.’
+
+- ‘Each land in the world produces its own men individually bad–and, in time, other bad men who kill them for the general good.’ Emerson Hough
+
+- Nostalgia was becoming a favoured hobby of his. Strange, how the best moments of our lives we scarcely notice except in looking back.
+
+- ‘Man’s got to be what he is, I reckon.’
+
+- For as the Prophet said, the man who knows fear every day becomes easy in its company.
+
+- Is not a man who takes on impossible odds generally considered an incorrigible idiot rather than a hero?’
+
+- That’s what courage is. Taking your disappointments and your failures, your guilt and your shame, all the wounds received and inflicted, and sinking them in the past. Starting again. Damning yesterday and facing tomorrow with your head held high. Times change. It’s those that see it coming, and plan for it, and change themselves to suit that prosper.
+
