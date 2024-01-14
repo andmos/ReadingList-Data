@@ -1,5 +1,7 @@
 # Project Hail Mary: A Novel
 
+![](https://m.media-amazon.com/images/I/81gUA3NPH6L._AC_UF894,1000_QL80_.jpg)
+
 ### Metadata
 
 - Author: Andy Weir
