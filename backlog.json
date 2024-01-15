@@ -2114,13 +2114,6 @@
     "label": "Fact"
   },
   {
-    "title": "Beyond the Mountain",
-    "authors": [
-      "Steve House"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Eiger Dreams: Ventures Among Men and Mountains",
     "authors": [
       "Jon Krakauer"
@@ -2201,6 +2194,13 @@
     "title": "Bedre Produkter",
     "authors": [
       "Ida Aalen"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Pulskuren",
+    "authors": [
+      "Torkil Færøs"
     ],
     "label": "Fact"
   }
