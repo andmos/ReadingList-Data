@@ -158,7 +158,7 @@
 
 - But the truth is that wealth is what you don’t see. Wealth is the nice cars not purchased. The diamonds not bought. The watches not worn, the clothes forgone and the first-class upgrade declined. Wealth is financial assets that haven’t yet been converted into the stuff you see. That’s not how we think about wealth, because you can’t contextualize what you can’t see.
 
-- Singer Rihanna nearly went bankrupt after overspending and sued her financial advisor. The advisor responded: “Was it really necessary to tell her that if you spend money on things, you will end up with the things and not the money?”³⁰
+- Singer Rihanna nearly went bankrupt after overspending and sued her financial advisor. The advisor responded: "Was it really necessary to tell her that if you spend money on things, you will end up with the things and not the money?"
 
 - When most people say they want to be a millionaire, what they might actually mean is “I’d like to spend a million dollars.” And that is literally the opposite of being a millionaire.
 
