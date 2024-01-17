@@ -1,11 +1,11 @@
-# Talking to Strangers - Malcolm Gladwell
+# Talking to Strangers
 
 ![](https://m.media-amazon.com/images/I/61rGW91SEjL._AC_UF1000,1000_QL80_.jpg)
 
 ### Metadata
 
 - Author: Malcolm Gladwell
-- Full Title: Talking to Strangers - Malcolm Gladwell
+- Full Title: Talking to Strangers
 - Category: #books
 
 ### Highlights
