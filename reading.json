@@ -1,16 +1,16 @@
 [
   {
-    "title": "Letters from a Stoic",
-    "authors": [
-      "Seneca"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Bedre Produkter",
     "authors": [
       "Ida Aalen"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "One-Eyed Jax: A Forgotten Realms Adventure (Legend of Drizzt)",
+    "authors": [
+      "R.A Salvatore"
+    ],
+    "label": "Fiction"
   }
 ]
