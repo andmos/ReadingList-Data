@@ -1816,13 +1816,6 @@
     "label": "Fact"
   },
   {
-    "title": "Amerikansk Karmageddon",
-    "authors": [
-      "Thomas Seltzer"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Starry Messenger: Cosmic Perspectives on Civilization",
     "authors": [
       "Neil deGrasse Tyson"
@@ -2210,5 +2203,26 @@
       "Scott Jurek"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "The Orc King: Legend of Drizzt:  Transitions, Book 1",
+    "authors": [
+      "R.A Salvatore"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Pirate King: Legend of Drizzt:  Transitions, Book 2",
+    "authors": [
+      "R.A Salvatore"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Ghost King: Legend of Drizzt:  Transitions, Book 3",
+    "authors": [
+      "R.A Salvatore"
+    ],
+    "label": "Fiction"
   }
 ]
