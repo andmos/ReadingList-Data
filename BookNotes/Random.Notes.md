@@ -61,3 +61,5 @@
 - A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system. - John Gall
 
 - Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson, Structure and Interpretation of Computer Programs
+
+- In the short run, the market is a voting machine but in the long run it is a weighing machine. — Ben Graham
