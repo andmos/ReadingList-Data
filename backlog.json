@@ -717,13 +717,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Year of the Locust",
-    "authors": [
-      "Terry Hayes"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "All You Need Is Less: The Eco-friendly Guide to Guilt-Free Green Living",
     "authors": [
       "Madeleine Somerville"
@@ -1923,7 +1916,7 @@
     "label": "Fact"
   },
   {
-    "title": "Blink",
+    "title": "Blink: The Power of Thinking Without Thinking",
     "authors": [
       "Malcolm Gladwell"
     ],
@@ -2229,6 +2222,14 @@
     "title": "Transformed: Moving to the Product Operating Model",
     "authors": [
       "Marty Cagan"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Starlight and Storm: The Conquest of the Great North Faces of the Alps",
+    "authors": [
+      "Gaston Rebuffat",
+      "Jon Krakauer"
     ],
     "label": "Fact"
   }
