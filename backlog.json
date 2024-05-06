@@ -2177,13 +2177,6 @@
     "label": "Fact"
   },
   {
-    "title": "Same as Ever: A Guide to What Never Changes",
-    "authors": [
-      "Morgan Housel"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Letters from a Stoic",
     "authors": [
       "Seneca"
@@ -2230,6 +2223,13 @@
     "authors": [
       "Gaston Rebuffat",
       "Jon Krakauer"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Deep Utopia: Life and Meaning in a Solved World",
+    "authors": [
+      "Nick Bostrom"
     ],
     "label": "Fact"
   }
