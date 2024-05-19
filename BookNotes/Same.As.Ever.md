@@ -1,11 +1,11 @@
-# Same as Ever_ A Guide to What Never Change - Morgan Housel
+# Same as Ever: A Guide to What Never Change - Morgan Housel
 
 ![](https://m.media-amazon.com/images/I/71znMAUESWL._AC_UF1000,1000_QL80_.jpg)
 
 ### Metadata
 
 - Author: Morgan Housel
-- Full Title: Same as Ever_ A Guide to What Never Change - Morgan Housel
+- Full Title: Same as Ever: A Guide to What Never Change
 - Category: #books
 
 ### Highlights
