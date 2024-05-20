@@ -49,13 +49,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Hunger Games Trilogy",
-    "authors": [
-      "Suzanne Collins"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Einstein: His Life and Universe",
     "authors": [
       "Walter Isaacson"
@@ -1632,13 +1625,6 @@
     "label": "Fact"
   },
   {
-    "title": "A Little Hatred: Age of Madness: Book One",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Lenin's Tomb: The Last Days Of The Soviet Empire",
     "authors": [
       "David Remnick"
@@ -2232,5 +2218,12 @@
       "Nick Bostrom"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "A Little Hatred: Age of Madness: Book One",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "label": "Fiction"
   }
 ]
