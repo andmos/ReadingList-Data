@@ -1999,13 +1999,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Push: A Climber's Journey of Endurance, Risk, and Going Beyond Limits",
-    "authors": [
-      "Tommy Caldwell"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Maskiner Som Tenker - Algoritmenes hemmeligheter og veien til kunstig intelligens",
     "authors": [
       "Inga Strümke"
@@ -2225,5 +2218,12 @@
       "Joe Abercrombie"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Doppelganger: A Trip into the Mirror World",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "label": "Fact"
   }
 ]
