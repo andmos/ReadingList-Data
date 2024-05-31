@@ -17,3 +17,5 @@
 - Physics is really nothing more than a search for ultimate simplicity, but so far all we have is a kind of elegant messiness.
 
 - It is easy to overlook this thought that life just is. As humans we are inclined to feel that life must have a point. We have plans and aspirations and desires. We want to take constant advantage of all the intoxicating existence we've been endowed with. But what's life to a lichen? Yet its impulse to exist, to be, is every bit as strong as ours—arguably even stronger. If I were told that I had to spend decades being a furry growth on a rock in the woods, I believe I would lose the will to go on. Lichens don't. Like virtually all living things, they will suffer any hardship, endure any insult, for a moment's additional existence. Life, in short, just wants to be.
+
+- When the poet Paul Valery once asked Albert Einstein if he kept a notebook to record his ideas, Einstein looked at him with mild but genuine surprise. "Oh, that's not necessary," he replied . "It's so seldom I have one.
