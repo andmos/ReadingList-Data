@@ -254,4 +254,4 @@
 
 - Climbers, as a species, are simply not distinguished by an excess of prudence. And that holds especially true for Everest climbers: when presented with a chance to reach the planet’s highest summit, history shows, people are surprisingly quick to abandon good judgment.
 
-- Remember that getting to the summit is the easy part; it’s getting back down that’s hard.’ ”
+- Remember that getting to the summit is the easy part; it’s getting back down that’s hard.
