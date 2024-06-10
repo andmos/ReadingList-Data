@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Hunger Games",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "The Push: A Climber's Journey of Endurance, Risk, and Going Beyond Limits",
+    "authors": [
+      "Tommy Caldwell"
+    ],
+    "label": "Fact"
+  },
+  {
     "title": "Same as Ever: A Guide to What Never Changes",
     "authors": [
       "Morgan Housel"
