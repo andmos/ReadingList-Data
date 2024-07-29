@@ -1931,13 +1931,6 @@
     "label": "Fact"
   },
   {
-    "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
-    "authors": [
-      "Bill Bryson"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry",
     "authors": [
       "Jacquie McNish",
@@ -2216,6 +2209,13 @@
     "title": "Everest: The West Ridge",
     "authors": [
       "Thomas Hornbein"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "authors": [
+      "Yuval Noah Harari"
     ],
     "label": "Fact"
   }
