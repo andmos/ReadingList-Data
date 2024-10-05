@@ -69,3 +69,5 @@
 - The overplanners just take longer to be wrong. - Ed Catmull
 
 - “Some people dream of success while others wake up and work hard at it” — Napoleon Hill
+
+- Gravity doesn't care about your VO2Max. - Zoë Rom
