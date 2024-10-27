@@ -5,7 +5,7 @@
 ### Metadata
 
 - Author: Alfred Lansing
-- Full Title: Endurance: Shackleton's Incredible Voyage - Alfred Lansing
+- Full Title: Endurance: Shackleton's Incredible Voyage
 - Category: #books
 
 ### Highlights
