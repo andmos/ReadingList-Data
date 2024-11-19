@@ -71,3 +71,4 @@
 - “Some people dream of success while others wake up and work hard at it” — Napoleon Hill
 
 - Gravity doesn't care about your VO2Max. - Zoë Rom
+- Don't be addicted to training, be addicted to improving. - John Albon
