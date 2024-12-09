@@ -2037,13 +2037,6 @@
     "label": "Fact"
   },
   {
-    "title": "Eiger Dreams: Ventures Among Men and Mountains",
-    "authors": [
-      "Jon Krakauer"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Elastic Leadership: Growing self-organizing teams",
     "authors": [
       "Roy Osherov"
@@ -2246,12 +2239,5 @@
       "Audun Lysbakken"
     ],
     "label": "Fact"
-  },
-  {
-    "title": "Wind and Truth (The Stormlight Archive, Book 5)",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "label": "Fiction"
   }
 ]
