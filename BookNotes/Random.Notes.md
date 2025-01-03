@@ -72,3 +72,5 @@
 
 - Gravity doesn't care about your VO2Max. - Zoë Rom
 - Don't be addicted to training, be addicted to improving. - Jon Albon
+
+- Skal det treet her vokse opp i himmelen, må det ha røtter som når ned til helvete. - Simen Holvik
