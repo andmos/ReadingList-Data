@@ -202,7 +202,7 @@
 
 - Some men slowing, wanting to get back, others moving faster, wanting to press on. Fear and anger, two sides to the same coin.
 
-- But in any case, a man can forgive all manner of faults in beautiful women that in ugly men he finds entirely beyond sufferance. And if there’s one thing I absolutely cannot abide, it’s disloyalty. You have to stick at something in your life.”
+- But in any case, a man can forgive all manner of faults in beautiful women that in ugly men he finds entirely beyond sufferance. And if there’s one thing I absolutely cannot abide, it’s disloyalty. You have to stick at something in your life.
 
 - ‘Unhappy the land that is in need of heroes’ Bertolt Brecht
 
