@@ -420,9 +420,9 @@
 
 - ‘I was running away. One way and another I’ve made quite a habit of it.’ ‘Done a fair bit myself. I find the trouble is, though, wherever you run to… there y’are.’
 
-- ‘Good luck’s never a thing to count on,’
+- ‘Good luck’s never a thing to count on’
 
-- ‘Never own a thing you couldn’t swim a river with, old Corley Ball used to tell me.’ ‘What happened to him?’ asked Shy. ‘Drowned, as I understand.’ ‘Men rarely live by their own lessons,’ murmured Lamb,
+- ‘Never own a thing you couldn’t swim a river with, old Corley Ball used to tell me.’ ‘What happened to him?’ asked Shy. ‘Drowned, as I understand.’ ‘Men rarely live by their own lessons,’ murmured Lamb
 
 - ‘There is no running from the sky!’ he was shrieking, finger outstretched. ‘There is no hiding from God! God is always watching!’ It seemed to Temple he was that most dangerous kind of priest–one who really believes.
 
@@ -473,4 +473,3 @@
 - Is not a man who takes on impossible odds generally considered an incorrigible idiot rather than a hero?’
 
 - That’s what courage is. Taking your disappointments and your failures, your guilt and your shame, all the wounds received and inflicted, and sinking them in the past. Starting again. Damning yesterday and facing tomorrow with your head held high. Times change. It’s those that see it coming, and plan for it, and change themselves to suit that prosper.
-
