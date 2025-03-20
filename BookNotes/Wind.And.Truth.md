@@ -20,3 +20,7 @@
 
 - "This' therapy' is too easy," the spren said. "All you do is sit and listen, then tell me things I already kind of know." "Remarkable," Kaladin said, "how little we do things like that though, isn't it?" The spren didn't have a face, only a void of stars, but he seemed to be smiling as he replied. "It is remarkable. More so because I actually feel better." 
 
+- Szeth had no particular affinity for the Lightweavers. Though he trained with their arts by requirement, he hated the way they made comedy out of truth, practically worshipping lies.
+As he walked the final path to the monastery, however, he found himself wondering. He'd imagined Lightweavers as strange beings who turned the truth into whatever they wanted it to be. But perhaps re-forming the truth into what you wanted it to be was not a trait merely of liars, but of all human beings.
+
+- Being strong didn't mean that you didn't need anyone. Those around you were the source of your strength.
