@@ -2253,5 +2253,19 @@
       "Robert Bates"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "The Call of the Wild",
+    "authors": [
+      "Jack London"
+    ],
+    "label": "Fiction"
+  },
+  {
+    "title": "Ulysses",
+    "authors": [
+      "James Joyes"
+    ],
+    "label": "Fiction"
   }
 ]
