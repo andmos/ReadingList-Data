@@ -74,3 +74,5 @@
 - Don't be addicted to training, be addicted to improving. - Jon Albon
 
 - Skal det treet her vokse opp i himmelen, må det ha røtter som når ned til helvete. - Simen Holvik
+
+- I guess what I am saying via all these examples; the river, the house, my trials with injuries, is this: running — and life — is a lot about doing what is needed in the moment. There are times to be bullish in your pursuit of a goal, and times to be a bit more reserved and cautious. It’s not about abandoning goal-setting, it’s just about utilizing goals in an appropriate manner. - Zach Miller
