@@ -473,3 +473,39 @@
 - Is not a man who takes on impossible odds generally considered an incorrigible idiot rather than a hero?’
 
 - That’s what courage is. Taking your disappointments and your failures, your guilt and your shame, all the wounds received and inflicted, and sinking them in the past. Starting again. Damning yesterday and facing tomorrow with your head held high. Times change. It’s those that see it coming, and plan for it, and change themselves to suit that prosper.
+
+- Broad kept sweeping. He'd learned in Styria there's a lot of things that are better just not thought about. Couldn't be a coincidence that the happiest men Broad ever knew were generally the stupidest.
+
+- 'The beauty o' making yourself a promise is that no one else complains if you break it.
+
+- 'Believe it or not, we all want what's best. The root o' the world's ills is that no one can agree on what it is.'
+
+- Rikke had never been able to understand why you'd care a shit who someone you'd never even met lay with. How few problems do you need to have before you count that among 'em?
+
+- But that's war for you. An ugly business that only leaves bad men better off.
+
+- Calder frowned harder than ever at his son. 'How did he end up with so little of me in him?' 'Never had to face hard times, said Wonderful, softly. Clover wagged a finger at her. 'There speaks the stern voice of experience. Defeats do men far more good than victories.' And he reached up and scratched gently at his scar. 'Best gift I was ever given. Taught me humility.'
+
+- They were swarming in the streets near the House of Questions, optimistically renamed the House of Liberty, hunting for anyone disloyal. Or perhaps for anyone loyal. Loyalty had become quite the fluid concept.
+
+- The uprising had changed some things, but others seemed wearily familiar. The workers were still working, the Practicals were still watching, the big hats might have moved around, but the men wearing them were still lecturing everyone else on the way things should be while doing none of the work themselves. Some Great Change.
+
+- 'War is only ever a prelude to talk’
+
+- I fear I want everyone to like me, Master Sulfur.' "We all do, Your Highness, but he who tries to please everyone pleases no one at all.'
+
+'Patience is the parent of success, murmured Jurand
+
+- 'Something bothering you, by any chance?' 'Oh no, Your Highness,' her high voice close to outright collap under the weight of sarcasm. 'And yet I sense the slightest frisson of hostility. Grievances are lik a drunkard's bed, Hildi. Always better aired.'
+
+- 'Promises are like flowers,' said Isern, stretching her arms wide. 'Often given, rarely kept.'
+
+- All he could think was that deserving's got nothing to do with anything. Life just falls on you, like rain.
+
+- 'Huh. Would've thought famous wizards would ride up front with the big folk, rather than getting stuck at the back with the dross.' Bayaz smiled. He was a hard bastard to rattle, the First of the Magi. "The figurehead goes at the front of the ship. Braves the terror of wind and waves, takes the risks and reaps the glory. But it's an unnoticed fellow hidden away near the back who does the steering.'
+
+- 'The thing is, so much of business is a show. It is about the confidence people have in you. And confidence is so fragile. I am sure we have both seen it a hundred times. Cast from iron one moment, crumbling like sand the next.’
+
+- "What's this?' she asked, fishing a crumpled sheaf of papers from the tray. She was no expert on printing but she reckoned this a poor example. It's a newsbill. They tell you what's happening.' Orso thought about that. 'Or they tell you what to think about what's happening.' He thought more. 'Or the really successful ones just confirm what you already think about what's happening.
+
+- And he smiled out at the Square of Marshals. A place that was still being painstakingly rebuilt after he'd levelled it no more than thirty years ago. They said it would be better than ever when they were done. But things are always going to be better, or were better long ago. No politician ever got anywhere by telling people things are just right as they are.
