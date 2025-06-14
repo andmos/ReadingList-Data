@@ -494,7 +494,7 @@
 
 - I fear I want everyone to like me, Master Sulfur.' "We all do, Your Highness, but he who tries to please everyone pleases no one at all.'
 
-'Patience is the parent of success, murmured Jurand
+- 'Patience is the parent of success, murmured Jurand
 
 - 'Something bothering you, by any chance?' 'Oh no, Your Highness,' her high voice close to outright collap under the weight of sarcasm. 'And yet I sense the slightest frisson of hostility. Grievances are lik a drunkard's bed, Hildi. Always better aired.'
 
