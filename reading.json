@@ -7,17 +7,17 @@
     "label": "Fact"
   },
   {
-    "title": "A Little Hatred: Age of Madness: Book One",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "The Mask of Fear (Star Wars: Reign of the Empire, Book 1)",
     "authors": [
       "Alexander Freed"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Fjellets filosofi",
+    "authors": [
+      "Gunnar Karlsen"
+    ],
+    "label": "Fact"
   }
 ]
