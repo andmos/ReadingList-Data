@@ -1107,13 +1107,6 @@
     "label": "Fact"
   },
   {
-    "title": "Thrawn: Alliances (Star Wars: Thrawn, Book 2)",
-    "authors": [
-      "Timothy Zahn"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Thrawn: Treason (Star Wars: Thrawn, Book 3)",
     "authors": [
       "Timothy Zahn"
@@ -2284,17 +2277,17 @@
     "label": "Fiction"
   },
   {
-    "title": "The Trouble with Peace: The Age of Madness: Book 2",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "Å tenke med Zapffe - forfatteren, filosofen, pessimisten, humoristen, klatreren",
     "authors": [
       "Dag O. Hessen"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Isles of the Emberdark: A Cosmere novel",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "label": "Fiction"
   }
 ]
