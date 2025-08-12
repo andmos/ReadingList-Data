@@ -509,3 +509,28 @@
 - "What's this?' she asked, fishing a crumpled sheaf of papers from the tray. She was no expert on printing but she reckoned this a poor example. It's a newsbill. They tell you what's happening.' Orso thought about that. 'Or they tell you what to think about what's happening.' He thought more. 'Or the really successful ones just confirm what you already think about what's happening.
 
 - And he smiled out at the Square of Marshals. A place that was still being painstakingly rebuilt after he'd levelled it no more than thirty years ago. They said it would be better than ever when they were done. But things are always going to be better, or were better long ago. No politician ever got anywhere by telling people things are just right as they are.
+
+- 'Got no pride, eh, Clover?' 'Used to have, my king. Used to have a fucking surfeit. Like a field in spring can draw too many bees. But I found when you're struggling, there's not a lot you can buy with the stuff. Pride, that is, not bees. So I shed mine. Don't miss it in the least.'
+
+- 'You're a woman,' said Oxel, with a sneer. "True,' said Rikke. 'I realised that the first time I tried to piss standing up. Most disappointing day of my life.'
+
+- In the end, no matter what they say, most folk want a path to follow. Someone to tell 'em it'll all be fine. Someone to tell' em what to do.
+
+- 'But easy is for the dead,' she whispered, and stood.
+
+- Her pride had been hard fought for and she didn't like swallowing it, even if her father had always said pride buys nothing.
+
+- But being an arsehole is crime and punishment both.
+
+- For twenty years, he could have done anything he wanted, and he had done nothing. With his future blindingly bright, surrounded by comfort and buoyed up by every privilege, getting out of bed had sometimes felt impossible. Now, beset by enemies and with the gloomiest of outlooks, he fizzed with energy.
+
+- 'I have often said that life is the misery we endure between disappointments.
+
+- No plan survives contact with the enemy - Helmuth von Moltke
+
+- There was an awkward silence, which Clover for some reason felt the need to fill. What he really wanted to say was that if you don't like dead folk you shouldn't start wars, but the best he could think of was, I'm told it went wrong.'
+
+- Here was a sad lesson. You can talk fine words till your tongue bleeds and never get a favour. Cut one throat and everyone's falling over themselves to be helpful.
+
+- Years back, when they first made him a sergeant, he'd imagined the officers must have all the answers. When he was given his commission, he'd imagined the generals must have all the answers. When King Orso made him a general, he'd imagined the Closed Council must have all the answers. Now, as a lord marshal, he finally knew it for an absolute fact. No one had the answers. Worse. There weren't any. The best you could do was play a long con and act as if you had them. Never show fear. Never show doubt. Command was a trick. You had to spread the illusion that you knew what you were doing as deep and as wide through your men as you could. Spread the illusion and hope for the best.
+
