@@ -1,4 +1,4 @@
-# Book Title
+# Amerikans Karmageddon - Tanker om mitt fordømte fedreland
 
 ![](https://media.bluestonepim.com/1d982375-6379-47aa-94dd-ca50b2d04f46/d26214a3-b665-4118-8c81-c485e275e624/zQuZtsGHLO3blTALedE5GZzSr/obF19pPqLhALogz20MmKkn2gQ.jpg)
 
