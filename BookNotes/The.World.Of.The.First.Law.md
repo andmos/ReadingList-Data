@@ -534,3 +534,37 @@
 
 - Years back, when they first made him a sergeant, he'd imagined the officers must have all the answers. When he was given his commission, he'd imagined the generals must have all the answers. When King Orso made him a general, he'd imagined the Closed Council must have all the answers. Now, as a lord marshal, he finally knew it for an absolute fact. No one had the answers. Worse. There weren't any. The best you could do was play a long con and act as if you had them. Never show fear. Never show doubt. Command was a trick. You had to spread the illusion that you knew what you were doing as deep and as wide through your men as you could. Spread the illusion and hope for the best.
 
+Leeb was a reasonably brave man, a reasonably honourable man, a reasonable monarchist who took his oath to his king very seriously. But Leeb was not a fool. He turned and ran with his men. 
+
+'If you only listen to lessons you like you'll learn nothing.’
+
+Vick snorted. The thing about history is you don't know what the right side is till long afterwards, and by then it hardly matters. "That's the sort o' thing you hear from folk who know they're on the wrong side.'
+
+Who says I want to do good?' 'Isn't that what we all want?' Bayaz gave a sigh through his nose. 'History is not the story of battles between right and wrong, but between one man's right and another's. Evil is not the opposite of good. It is what we call another man's notion of good when it differs from ours.'
+
+You've got plans?" asked Flick, looking genuinely surprised. 'I've got plans like I've got boots.' Clover frowned down at his waterlogged footwear. 'Honestly, I could always do with better ones.'
+
+Seems giving little men big men's shoes doesn't make 'em big. Just makes 'em trip over.'
+
+'That sounds more like an excuse than a reason,' murmured Jurand. Leo frowned sideways at him. 'They're the same thing seen from different sides.'
+
+Hed owned a horse once, long time ago, but only 'cause it was the type o' thing folk expect a famous warrior to own. Didn't think hed ever ridden it. Except once, when he bought it, pretending he wasn't scared witless hed fall off, and only 'cause it was the type o' thing folk expect someone to do when buying a horse. Rest of the time it just stood in a stable, looking sad, eating his hay and costing him money. Strange, how much of his time hed spent worrying about what people expect. You'd have thought the one upside of being a famous warrior was doing whatever you pleased.
+
+If anyone had asked him, Clover would've said there was less than no chance this'd be settled with talk. But you never realise how much hope you're holding till it gets knifed and thrown off a roof.
+
+Leo wasn't sure whether they'd been armed or not. Only that they'd be wielding the most terrifying weapons you ever saw in the painting hed have made of this moment.
+
+Her mother had always warned her a man is judged by his best moment, a woman by her worst.
+
+The past isn't made of facts, not really, just stories people tell to make themselves feel better. To make themselves look better. Everyone was at it.
+
+I still say adding up debts is no way to make a living.
+
+'I doubt everyone would say so. ' Savine lowered her voice. 'I did betray you to Stour Nightfall, after all.'
+I did betray you to King Orso. No doubt we both had our reasons. Doesn't mean we're not friends.' And she grinned sideways. A grin with a hint of danger. I mean, what's the use of stabbing your enemies in the back?' "Those bastards you can stab in the front, murmured Savine, taking a quick pinch of pearl dust.
+
+He stood, took the stopper from the decanter with a pleasant clinking of glass. 'The Queen of the Northmen!' Just Black Rikke. If you've got the power you don't need the title' I was always the other way around. So many titles. No power at all.'
+
+'The truth is... I used to see things. Before my father died. Before I stole the North. Before I killed Stour and Calder. Before I was Black Rikke and I was... a girl you gave an egg to.' She waved a hand at her tattooed face. 'But since the runes were written, nothing? She bit into the egg and sat back, speaking around a mouthful. 'Reckon my Long Eye's closed for good.' "So... you pretend?" I do what my father tried to. Give his people at least a bit of what they want. Folk like the notion of someone who knows what's coming. That way they don't have to worry about it.'
+
+Not that I bear any of you ill will, you understand. Ill will is too heavy a thing to carry through life, let alone up onto a scaffold, and it's useless in a fight in any case.
