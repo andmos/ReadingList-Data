@@ -116,7 +116,7 @@
 
 - “Five times I have been under siege, and always quite relished the experience. It has a wonderful way of limiting the options. Of freeing the mind.” Cosca took a long breath in through his nose and blew it happily out. “When life is a cell, there is nothing more liberating than captivity.”
 
-- If you wanted a thing, why burn it? And if you did not want it, why fight to take it from someone else? Men
+- If you wanted a thing, why burn it? And if you did not want it, why fight to take it from someone else?
 
 - We liked to torch a building or two in my day, just to get things moving, but nothing like this. War used to be about making money. Some degree of modest misery was a regrettable side effect. Now it’s just about destroying things, and the more thoroughly the better. Science, my friend, science. Supposed to make life easier, I thought.”
 
