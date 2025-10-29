@@ -250,6 +250,8 @@
 
 - Life only rolls one way and it ain’t always the way we’d like. There it is.’
 
+- I got no shortage of men can kick a door down. I can use a couple who’ll think to try the handle once in a while.
+
 - I think you know this, and have no confidence, which makes you behave, paradoxically, as if you have far too much.
 
 - ‘Look. You think how stupid people are most of the time. Old men drunk. Women at a village fair. Boys throwing stones at birds. Life. The foolishness and the vanity, the selfishness and the waste. The pettiness, the silliness. You think in a war it must be different. Must be better. With death around the corner, men united against hardship, the cunning of the enemy, people must think harder, faster, be … better. Be heroic.’ He started to heave his packages down from his horse’s saddle. ‘Only it’s just the same. In fact, do you know, because of all that pressure, and worry, and fear, it’s worse. There aren’t many men who think clearest when the stakes are highest. So people are even stupider in a war than the rest of the time. Thinking about how they’ll dodge the blame, or grab the glory, or save their skins, rather than about what will actually work. There’s no job that forgives stupidity more than soldiering. No job that encourages it more.’
