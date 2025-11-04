@@ -12,8 +12,6 @@
 
 - A tranquil harmony reigned over the camp that day after the final stage. Did we just suddenly forget the pain and the suffering? Or was the suffering part of why we were happy?
 
-- abcd
-
 - If happiness wasn’t in comfort, was it somehow to be found in being uncomfortable? Was there some need for those of us with no suffering in our lives, to find some? Because it made us appreciate our homes and our comforts more? Or did suffering a little somehow make us stronger, more fulfilled human beings?
 
 - Her decision to delve into ultra running was accelerated by some unexpected life events. Within a short span of time her father died, her mother was diagnosed with Alzheimer’s, and her husband got cancer. ‘All of those things,’ she says, ‘make you realise that life is very short, and you just have to do it, you can’t sit and wait.’
