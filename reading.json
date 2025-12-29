@@ -7,17 +7,17 @@
     "label": "Fact"
   },
   {
-    "title": "Everybody Loves Our Town: An Oral History of Grunge",
-    "authors": [
-      "Mark Yarm"
-    ],
-    "label": "Fact"
-  },
-  {
-    "title": "Ringenes Herre: Atter en Konge",
+    "title": "Hobbiten",
     "authors": [
       "J.R.R Tolkien"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Into the Silence: The Great War, Mallory, and the Conquest of Everest",
+    "authors": [
+      "Wade Davis"
+    ],
+    "label": "Fact"
   }
 ]
