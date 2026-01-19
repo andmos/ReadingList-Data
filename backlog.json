@@ -137,13 +137,6 @@
     "label": "Fact"
   },
   {
-    "title": "The Silmarillion",
-    "authors": [
-      "J.R.R Tolkien"
-    ],
-    "label": "Fiction"
-  },
-  {
     "title": "The Year Without Pants: WordPress.com and the Future of Work",
     "authors": [
       "Scott Berkun"
@@ -2324,5 +2317,12 @@
       "Jens Stoltenberg"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "Malice (The Faithful and the Fallen, Book 1)",
+    "authors": [
+      "John Gwynne"
+    ],
+    "label": "Fiction"
   }
 ]
