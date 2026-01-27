@@ -78,3 +78,5 @@
 - I guess what I am saying via all these examples; the river, the house, my trials with injuries, is this: running — and life — is a lot about doing what is needed in the moment. There are times to be bullish in your pursuit of a goal, and times to be a bit more reserved and cautious. It’s not about abandoning goal-setting, it’s just about utilizing goals in an appropriate manner. - Zach Miller
 
 - There is a memorable line in C.S. Lewis’s “The Four Loves.” He is writing about how love makes us vulnerable, and this is a good thing. He writes, “If you want to make sure of keeping [your heart] intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable (1).”
+
+- Like many runners, I am a book person. Like many book people, I am a runner. - Sabrina Little
