@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Silmarillion",
+    "authors": [
+      "J.R.R Tolkien"
+    ],
+    "label": "Fiction"
+  },
+  {
     "title": "Hobbiten",
     "authors": [
       "J.R.R Tolkien"
