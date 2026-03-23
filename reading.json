@@ -1,12 +1,5 @@
 [
   {
-    "title": "Fjellets filosofi",
-    "authors": [
-      "Gunnar Karlsen"
-    ],
-    "label": "Fact"
-  },
-  {
     "title": "Into the Silence: The Great War, Mallory, and the Conquest of Everest",
     "authors": [
       "Wade Davis"
@@ -14,7 +7,14 @@
     "label": "Fact"
   },
   {
-    "title": "Jenta som lekte med ilden",
+    "title": "Long Road: Pearl Jam and the Soundtrack of a Generation",
+    "authors": [
+      "Steven Hyden"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Luftslottet som sprengtes",
     "authors": [
       "Stieg Larsson"
     ],
