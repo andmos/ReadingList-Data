@@ -80,3 +80,5 @@
 - There is a memorable line in C.S. Lewis’s “The Four Loves.” He is writing about how love makes us vulnerable, and this is a good thing. He writes, “If you want to make sure of keeping [your heart] intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable (1).”
 
 - Like many runners, I am a book person. Like many book people, I am a runner. - Sabrina Little
+
+- Been living out of vehicles most my adult hood at this point. Mostly from colorful challenges, and I don't seem to fit the mold of what the structured society expects from us. But if you have enough to feed yourself without worry and something over your head to sleep under comfortably, whether that be a car or mansion, misery is a choice. Clouds float by. And for those that don't have those things: clouds float by.
