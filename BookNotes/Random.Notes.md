@@ -82,3 +82,5 @@
 - Like many runners, I am a book person. Like many book people, I am a runner. - Sabrina Little
 
 - Been living out of vehicles most my adult hood at this point. Mostly from colorful challenges, and I don't seem to fit the mold of what the structured society expects from us. But if you have enough to feed yourself without worry and something over your head to sleep under comfortably, whether that be a car or mansion, misery is a choice. Clouds float by. And for those that don't have those things: clouds float by.
+
+- I was recently walking around my neighborhood with my husband, admiring lawns. I didn’t use to do that. It’s the sort of thing that creeps up on you in your 30s. One day, you are cool. The next day, you wake up and start admiring lawns. - Sabrina Little
