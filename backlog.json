@@ -2366,5 +2366,12 @@
       "Michael Azerrad"
     ],
     "label": "Fact"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "label": "Fiction"
   }
 ]
