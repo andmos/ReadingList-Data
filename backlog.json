@@ -2358,5 +2358,19 @@
       "Alexandre Dumas"
     ],
     "label": "Fiction"
+  },
+  {
+    "title": "Hendenes metode - manuell kunnskap i teoriens gullalder",
+    "authors": [
+      "Ole Thorstensen"
+    ],
+    "label": "Fact"
+  },
+  {
+    "title": "Kroppsvekttrening",
+    "authors": [
+      "Magnus Frantzen"
+    ],
+    "label": "Fact"
   }
 ]
